@@ -1,124 +1,300 @@
 # Bailey Story Bible
 
-Continuity for the daily Bailey comic strips. Every run reads this before generating a strip and updates it afterward with anything new, so the stories remember each other.
+The source of truth for the daily Bailey comic. Every run reads this whole file before writing a strip and updates it afterward (see **After each strip** at the end).
+
+Companion files: `arc-log.md` — the full story, day by day (this bible keeps only the last 7 days) · `characters.md` — full character sheets · `production-log.md` — check results, fix rounds, and Instagram post IDs.
+
+## Every run
+1. Read this whole bible.
+2. Check today's weather for Kissimmee, FL 34747 (browser.search, weather vertical, for Kissimmee FL 34747).
+3. **6am run:** plan the whole day before drawing anything — all three strips — in **Today's plan**, answering the **Story check**. If yesterday ended on a cliffhanger, the plan starts there.
+   **Noon and 6pm runs:** follow Today's plan. Change it only for the weather or Daniel's picks, and note why.
+4. Write the six panels and the image prompt, using **Prevent the known problems**.
+5. Generate the strip and run the **Pre-posting check**. Keep fixing until it passes.
+6. Send it to Karen. At 6pm, post the day's three strips to Instagram as one carousel.
+7. Update the files (**After each strip**).
+
+## Today's plan
+The 6am run writes the day's plan here; the noon and 6pm runs follow it. Daniel's picks override it.
+
+**Fri Nov 20 — evening (6pm), the first strip under the new shape rules**
+- Morning and midday ran as logged in `arc-log.md`.
+- Evening — "The Garden Digger — Holes in the Dark." Cliffhanger. The Night Patrol returns (first since Nov 14). In Holly's garden after dark, Bailey finds fresh little holes dug among the pink flowers and Holly's tiny flower knocked into the dirt; she sets it back up. Holly is asleep on her twig and can't say who did it. A rustle at the fence — two eyes glint in the dark — gone. Last panel: "Someone's digging in Holly's garden… Detective Bailey is on the case!" and a small "To be continued…". Not asleep in bed.
+- If the 6pm strip ran differently, log what ran and rethink Sat Nov 21 below.
+
+**Sat Nov 21 — "The Garden Digger"** (two-day arc, day 2)
+- Shape: mystery across all three strips, picking up the Nov 20 cliffhanger. Main supporting character: Mittens (last on-page Nov 14), as Bailey's new sidekick. Also: the Squirrel (a suspect), Holly (it's her garden), the Toy Gator (imaginary partner).
+- Want: solve the case and protect Holly's home. Turn: the culprit is a friend. Laugh: the last panel. Heart: the truce survives its first test. Threads: the Detective title returns (first time since Nov 12); the Squirrel's truce deepens.
+- Morning (from bed): Bailey can't sleep for thinking about the case; the Gator, alive in her imagination, is her partner. At first light she finds two clues in the garden: an acorn cap in one hole and a tuft of orange fur on the fence.
+- Midday: Mittens admits the glinting eyes were hers — she was chasing a moth — and begs to be Bailey's sidekick. The acorn clue leads to the big oak and the Squirrel, dirt on her nose. Bailey accuses her; the Squirrel is hurt ("I thought we had a truce!") and dashes up the oak. Ends on a low note: the truce is in trouble.
+- Evening: Bailey brings a peace biscuit to the oak. The truth: the Squirrel was burying acorns for winter and didn't know the garden is Holly's home. Bailey and Mittens help move the stash to the roots of the big oak; Holly sleeps safe on her twig. Button: Bailey, inspired, buries her own biscuit "for winter"… in Holly's garden. Not asleep in bed.
+
+## Daniel's notes — real life to weave in
+Daniel adds real moments here or in chat: something Bailey really did, a family event, Karen's day. Use fresh notes first — real life is the best material this comic has. Mark each note "used Nov __" once it's in a strip.
+- (none yet)
+
+## Story so far — the last 7 days
+One row per day. The 6pm run fills in today's row and deletes rows older than 7 days (they live on in `arc-log.md`). Check every plan against this table: don't repeat a day's shape, main setting, or main supporting character within 7 days.
+
+| Day | Story | Shape | Main settings | Supporting cast | How it ended |
+|---|---|---|---|---|---|
+| Sat Nov 14 | Super Bailey | Daydream → it comes true → patrol | Blanket fort, front yard and big oak | Mittens (new), Daniel | Asleep in bed, dreaming of flying |
+| Sun Nov 15 | Ruby the Cardinal | New friend: meet → visit → wind-down | Window, oak and nest, golf course, porch | Ruby (new), Daniel, Karen | Asleep in bed, dreaming of Ruby |
+| Mon Nov 16 | The Gator & the Swamp Patrol | Plan → patrol → storm | Bed, yard and big oak | Toy Gator, the Squirrel, Daniel | Thunder ritual; asleep in bed |
+| Tue Nov 17 | Finn the Frog | New friend: meet → play → bath | Rainy window, yard puddles, bath | Finn (new), Daniel, Karen | Bath and bedtime story; asleep in bed |
+| Wed Nov 18 | The Squirrel's Truce | Rival → truce → delivery | Windowsill, big oak in the rain | The Squirrel, Daniel, Karen | Thunder ritual; asleep in bed, dreaming |
+| Thu Nov 19 | Official Thanksgiving Taste Tester | Holiday lead-in: taste → report → plan | Kitchen, Glenda and Brad's house | Karen, Daniel, Glenda, Brad | Asleep in bed, dreaming of the feast |
+| Fri Nov 20 | Holly the Hummingbird | New friend: meet → garden → cliffhanger (planned) | Bedroom window, garden | Holly (new) | (6pm run fills in) |
+
+**Patterns to break:** every evening Nov 13–19 ended with Bailey asleep in bed (five of them with a dream); four of the last seven days introduced a new friend; four of the last six mornings opened with a visitor at the bedroom window; every day since Nov 15 has used "Bailey & …" titles; every day Nov 14–19 ran plan → do it → home.
+
+## Open threads — setups waiting for a payoff
+Pay these off before planting new ones. Add what a strip plants; delete a line once it's paid off.
+- **Daisy is still waiting.** Nov 13 ended with Bailey dreaming of "tomorrow's visit to the pond" — she never went back, and Daisy hasn't been seen since. → seed: Daisy's Been Waiting.
+- **The Vacuum wants a rematch.** Defeated Nov 13; it lurks in the closet. Best stage: Thanksgiving crumbs.
+- **The Garbage Truck has never appeared.** Its debut needs the real garbage day (see Unknowns).
+- **George Michael, Aunt Jennifer, and Uncle Andrew have never been on-page,** and their golf-course house has never been visited.
+- **The Irish bone has never been the center of a story** — the best lost-toy candidate.
+- **Ruby never thanked Bailey for the biscuit** left at the oak on Nov 16 (she was out). A small beat whenever Ruby returns.
+- **The Squirrel has no name.** A story can reveal it, or Daniel can name her (he named Daisy).
+- **Routines used once:** the Night Patrol (Nov 14; returns Nov 20), the Swamp Patrol (Nov 16), the paw-print stamp (Nov 19).
+- **Thanksgiving pays off** the Official Thanksgiving Taste Tester title and the paw-stamped menu card.
+- **Who's digging in Holly's garden?** (Nov 20 cliffhanger) → solved Sat Nov 21.
+
+## Unknowns — ask Daniel; never invent
+These are real-life facts. Leave them out of strips, or keep them vague, until Daniel answers — then move the answer into this bible.
+- Where Thanksgiving is and who's coming. (Until he says: Glenda and Brad's house, and only family already in this bible.)
+- Which day the real garbage truck comes.
+- Bailey's gotcha day.
+- Karen's birthday and Daniel and Karen's anniversary — Karen's big days deserve special strips.
+- A reference photo of Bailey herself (everyone else has one).
+- The real Bailey's quirks, tricks, nicknames, and favorite spots — and the little things Karen and Bailey do together.
+- George Michael's real personality.
+- Whether fireworks scare Bailey the way thunder does (New Year's Eve).
+- Christmas: where, who, and the family's traditions.
+- The Squirrel's name, if Daniel wants to choose it.
 
 ## Bailey
-- Small black-and-tan scruffy female dog, big pointy ears. Natural feminine pronouns only (she, her, hers) — never print the literal text "she/her" anywhere in a strip.
-- Home base: the green checkered bed with a white pillow. Professional Napper; also Detective and Vacuum Defender.
-- Backstory: adopted from Daniel's grandparents on his dad's side. When they passed away, it was their wish she stay in the family.
-- Loves: naps, treats, chasing butterflies, the park pond, playing on the golf course.
+- **Look:** small black-and-tan scruffy female dog. Short scruffy fur (not long or shaggy). Big pointy ears that always stand tall and upright — awake, asleep, wet, or curled up.
+- **Pronouns:** natural feminine pronouns only (she, her, hers) — never print the literal text "she/her" anywhere in a strip.
+- **Home base:** the green checkered bed with a white pillow.
+- **Backstory:** adopted from Daniel's grandparents on his dad's side. When they passed away, it was their wish she stay in the family. It's tender: don't build a strip around it unless Daniel asks.
+- **Loves:** naps, treats, chasing butterflies, the park pond, playing on the golf course.
+- **Personality** (drawn from the strips so far; Daniel can add the real Bailey's quirks):
+  - Big heart, small dog: she takes her jobs and titles very seriously, and the comedy lives in the gap between her confidence and her size.
+  - Food-motivated: a treat can solve, cause, or bribe almost anything.
+  - A Professional Napper: naps ambush her adventures at the worst moments.
+  - A loyal guardian of her bed, her yard, her family, and her friends.
+  - Dog logic: she misreads human things — the vacuum is a monster; the garbage truck eats cans.
+- **Voice:** short, earnest declarations — proud, a little dramatic, never mean. ("No cold mornings allowed in my fort!")
+- **Titles:** Professional Napper (Nov 12), Detective (Nov 12), Vacuum Defender (Nov 13), Queen of the Fort (Nov 14), Super Bailey / Hero of the Yard (Nov 14), Official Thanksgiving Taste Tester (Nov 19). A new title at most once a week, and only when a story earns it.
+- **The thunder ritual:** when it thunders, Bailey gets scared and comes to Daniel; they bark at the thunder together, which makes her feel brave and protected. She only barks at the thunder when Daniel is with her.
+- **Routines:** the Night Patrol (Nov 14); the Swamp Patrol with the Gator (Nov 16); the paw-print stamp, her official seal of approval (Nov 19).
 
-## Bailey's humans
-- Daniel: Bailey's owner. Dark hair, short beard, usually a black shirt. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/daniel_and_karen_reference.jpg
-- Karen (Karen Tijerina-Weber): Bailey's owner, Daniel's wife. Long dark hair, often a black dress with white polka dots. Same reference photo.
-- Glenda: Daniel's mom, Bailey's grandma. Reddish-blonde hair, glasses, often a magenta/burgundy coat. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/glenda_and_brad_reference.jpg
-- Brad: Daniel's dad, Bailey's grandpa. Short dark hair, mustache, often a blue polo shirt. Same reference photo.
-- Glenda and Brad live in a different house from Daniel and Karen — Bailey visits them there.
-- Jennifer Ruben: Daniel's sister, Bailey's aunt. Long wavy light-brown hair, often a white floral dress. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/sister_and_brother_in_law_reference.jpg
-- Andrew Ruben: Jennifer's husband, Bailey's uncle. Short dark hair, full dark beard, often a tan long-sleeve shirt. Same reference photo.
-- Daniel's sister and her husband live in a different house on the golf course — Bailey visits them there. They appear only when the story calls for them, like Glenda and Brad.
-- Both appear only when the story calls for them — Bailey is always the focus.
+## Cast
+Check Last on-page before planning: the friend who's been away longest is usually the best choice. Fuller sheets are in `characters.md`.
 
-## Friends and recurring characters
-- The Squirrel (with an acorn): Bailey's dream rival since strip 1 (Nov 12) — Bailey dreamed of catching her and her acorn, and chased her again in the yard Nov 16. On Nov 18 she asked for a truce, leaving an acorn on the windowsill as a peace offering; Bailey said yes and delivered a biscuit to her at the big oak at noon. Dream rival turned friend.
-- Daisy the Duck: Bailey's new friend, met Nov 13 at the park pond ("Park Adventures Day 1"). They splashed and quacked together. Named Daisy by Daniel on Nov 13, 2026 — she keeps this name (and her look: small green-and-white duck) in every later strip.
-- Mittens the Kitten: small orange tabby kitten, the neighbor's cat. Bailey rescued her from the oak tree in the front yard on Nov 14 ("Super Bailey") — Mittens jumped into Bailey's red blanket-cape like a safety net and thanked her. New friend; she lives next door, so she can visit again.
-- Ruby the Cardinal: a bright red cardinal with a crest who sings at Bailey's window at dawn. Bailey met her Nov 15 ("Bailey & Ruby — A Chilly Morning in Kissimmee") when they sang a dawn duet together and watched the sunrise over the golf course. Her nest is in the big oak tree in the front yard — the same tree Mittens was rescued from. Bailey promised to visit the nest after breakfast.
-- Finn the Frog: a small bright green tree frog. Bailey met him Nov 17 at the rainy bedroom window ("Bailey & the Frog — A Rainy Morning"); he invited her to splash in the puddles when the rain eased, and at noon that same day they had their puddle day in the yard — his big hop over a puddle, a puddle race, and both ending muddy and happy as Puddle Champions. He lives in the yard, near the puddles.
-- Holly the Hummingbird: a tiny emerald-green hummingbird with a pink throat and blur-fast wings. Bailey met her Nov 20 at the bedroom window at dawn ("Bailey & the Hummingbird — A Dawn Visitor"); Holly zips by every dawn, left a tiny pink flower on the windowsill as a hello, and invited Bailey to meet her at the garden flowers after breakfast. She lives in the garden, among the flowers.
-- George Michael: Jennifer and Andrew's black-and-white tuxedo cat, Bailey's cousin. Black back and head, white chest, belly and paws, white blaze on his forehead, big pointy ears. Lives at Jennifer and Andrew's house on the golf course. He appears only when the story calls for him. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/george_michael_reference.jpg
+### Bailey's humans
+Real family. They appear only when the story calls for them — Bailey is always the focus — and they stay kind and true to life.
+- **Daniel** — Bailey's owner. Dark hair, short beard, usually a black shirt. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/daniel_and_karen_reference.jpg. Her thunder buddy; hands out taste tests and biscuits; reads bedtime stories; lets her in from patrols.
+- **Karen (Karen Tijerina-Weber)** — Bailey's owner, Daniel's wife. Long dark hair, often a black dress with white polka dots. Same reference photo. Tucks Bailey in ("Good night, sleepy girl."); baked the Thanksgiving pie and planned the menu with her. Karen reads every strip first — give her real moments, not just bedtime.
+- **Glenda** — Daniel's mom, Bailey's grandma. Reddish-blonde hair, glasses, often a magenta/burgundy coat. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/glenda_and_brad_reference.jpg.
+- **Brad** — Daniel's dad, Bailey's grandpa. Short dark hair, mustache, often a blue polo shirt. Same reference photo. Glenda and Brad live in a different house from Daniel and Karen — Bailey visits them there. They judged her taste test on Nov 19: "Officially approved — by Grandma and Grandpa!"
+- **Jennifer Ruben** — Daniel's sister, Bailey's aunt. Long wavy light-brown hair, often a white floral dress. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/sister_and_brother_in_law_reference.jpg. Not yet on-page.
+- **Andrew Ruben** — Jennifer's husband, Bailey's uncle. Short dark hair, full dark beard, often a tan long-sleeve shirt. Same reference photo. Jennifer and Andrew live in a different house on the golf course — Bailey visits them there. Not yet on-page.
 
-## Antagonists — the troublemakers of Bailey's world
-- The Vacuum (Vacuum Monster): the roaring monster from the closet that sucks up crumbs and treats. Bailey barked it into submission and stood on top of it in victory (Nov 13, "Bailey vs. the vacuum"). Defeated for now, but it lurks in the closet and may roar back to life for a rematch.
-- The Garbage Truck: a big growling truck that rumbles down the street on garbage day, beeping as it backs up and gobbling up the cans. Bailey guards the yard from it — loud, smelly, and far too big to bark into submission.
-- Lightning: the flash in the storm clouds, crackling and teasing, with Thunder as its roaring voice. Lightning scares Bailey — but when it flashes, she runs to Daniel and they bark at the thunder together, which makes her feel brave and protected (the thunder ritual). Lightning is the one foe she faces with Daniel at her side.
+### Friends
+- **The Squirrel** — always has her acorn; keep her look from earlier strips. Quick, clever, always stashing acorns; proud, and new to being friends. Voice: fast chatter. Bailey's dream rival from the first strip (Nov 12); chased Nov 16, still uncaught; on Nov 18 she left an acorn on the windowsill and asked for a truce, and Bailey answered with a biscuit at the big oak. Lives in the big oak in the front yard. Name unknown. **Last on-page: Nov 18.**
+- **Daisy the Duck** — small green-and-white duck (not a mallard). Named by Daniel on Nov 13; she keeps that name and look in every strip. Playful, splashy, loyal. Voice: cheerful quacks and short, bubbly lines. Met Nov 13 at the park pond; they splashed and quacked together. Bailey promised to come back "tomorrow" and never did. Lives at the park pond. Nobody feeds her bread. **Last on-page: Nov 13.**
+- **Mittens the Kitten** — small orange tabby kitten, the neighbor's cat. Tiny, curious, fearless until she's stuck; adores Super Bailey. Voice: little "mew!"s and small, eager lines. Rescued from the big oak on Nov 14 — she jumped into Bailey's red blanket-cape like a safety net. Lives next door. **Last on-page: Nov 14.**
+- **Ruby the Cardinal** — bright red cardinal with a crest. A cheerful early bird, proud of her singing and of the nest she built herself. Voice: musical, sing-song lines. Met Nov 15 with a dawn duet and a sunrise over the golf course; they sang together on the golf course at noon. Her "Same time tomorrow, Bailey!" was a friendly farewell, not a standing daily meetup (Daniel's call, Nov 15). Bailey left her the promised biscuit at the oak on Nov 16 while she was out. Nest in the big oak in the front yard. **Last on-page: Nov 15.**
+- **Finn the Frog** — small bright green tree frog. Bouncy, boastful about his big hop, competitive; loves rain. Voice: quick brags and ribbits. Met Nov 17 at the rainy bedroom window; that noon they splashed through the yard puddles — his big hop, a puddle race — and ended muddy and happy as Puddle Champions. Lives in the yard near the puddles. **Last on-page: Nov 17.**
+- **Holly the Hummingbird** — tiny emerald-green hummingbird with a pink throat and blur-fast wings. Zippy, generous, can't stay still; at night she sleeps deeply, perched on a twig (a real hummingbird habit). Voice: quick, breathless bursts. Met Nov 20 at the bedroom window at dawn — she zips by every dawn — and left a tiny pink flower on the windowsill. At noon in the garden, Bailey gave her the flower: it's Holly's now. Lives in the garden among the flowers. **Last on-page: Nov 20.**
+- **George Michael** — Jennifer and Andrew's black-and-white tuxedo cat, Bailey's cousin. Black back and head; white chest, belly, and paws; white blaze on his forehead; big pointy ears. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/george_michael_reference.jpg. A real cat: Daniel to confirm his personality — until then, a cool, dignified cousin who's hard to impress. Lives at Jennifer and Andrew's house on the golf course; appears only when the story calls for him. **Not yet on-page.**
 
-## Bailey's toys
-- The Toy Gator: a green-and-blue plush alligator with yellow spikes along its back — one of Bailey's favorite toys. In her imagination he can come alive as a friendly swamp buddy who guards the bed. He did exactly that on Nov 16 ("Guard Duty at Dawn"): he woke her at 6am, taught her a swamp growl, and became her guard-duty partner — they plan a "Swamp Patrol" of the yard together. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/bailey_toys_reference.jpg
-- The Irish Bone ("KISS ME" bone): a black bone-shaped toy covered in green and yellow shamrocks, with "KISS ME" stitched across it. Bailey's favorite chew toy — she carries it around and guards it proudly. Draw it as the bone itself only — a bone shape lying down or being carried, never as a character with a face, arms, or a body. (Daniel corrected this Nov 14: the first drawing turned it into a little bear character, which was wrong.) Same reference photo.
+### Antagonists — the troublemakers of Bailey's world
+- **The Vacuum (Vacuum Monster)** — the roaring monster from the closet that sucks up crumbs and treats. Bailey barked it into submission and stood on top of it in victory (Nov 13). Defeated for now, but it lurks in the closet and wants a rematch. **Last on-page: Nov 13.**
+- **The Garbage Truck** — a big growling truck that rumbles down the street on garbage day, beeping as it backs up and gobbling up the cans. Loud, smelly, and far too big to bark into submission — Bailey guards the yard and outlasts it. **Not yet on-page.**
+- **Lightning** — the flash in the storm clouds, crackling and teasing, with Thunder as its roaring voice. It scares Bailey, but when it flashes she runs to Daniel and they bark at the thunder together. The one foe she faces with Daniel at her side. **Last on-page: Nov 18.**
+
+### Bailey's toys
+- **The Toy Gator** — green-and-blue plush alligator with yellow spikes along his back; one of Bailey's favorite toys. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/bailey_toys_reference.jpg. In Bailey's imagination he comes alive as a gruff, loyal swamp buddy who guards the bed — and he's a plush again by the end of the scene. On Nov 16 he woke her at 6am, taught her a swamp growl ("Grrr... arooo!"), and became her partner for the Swamp Patrol. Usually beside her in bed. **Last alive: Nov 16.**
+- **The Irish Bone ("KISS ME" bone)** — black bone-shaped toy covered in green and yellow shamrocks, with "KISS ME" stitched across it. Same reference photo. Bailey's favorite chew toy — she carries it around and guards it proudly. Draw it as the bone itself only — a bone shape lying down or being carried, never a character with a face, arms, or a body. (Daniel corrected this Nov 14: the first drawing turned it into a little bear character.) **Never yet the center of a story.**
 
 ## Places
-- The green checkered bed (home).
-- The park: flower meadow with butterflies, pond with lily pads and cattails, where the duck lives.
-- Glenda and Brad's house — Daniel's parents' home, where Bailey visits.
-- The golf course — Bailey's playground in their golf course community.
+- **The green checkered bed** (home), by the bedroom window.
+- **The front yard and the big oak** — Ruby's nest, the Squirrel's home, where Mittens was rescued; the Night Patrol route.
+- **The yard and its puddles** — out the back door; Finn's home; the Swamp Patrol route.
+- **The garden** — Holly's flowers.
+- **The porch** — stargazing (Nov 15).
+- **The kitchen** — the pumpkin pie (Nov 19).
+- **Next door** — Mittens's house.
+- **The park** — a flower meadow with butterflies, and a pond with lily pads and cattails, where Daisy lives.
+- **The golf course** — Bailey's playground in their golf course community; Ruby's sunny spot (Nov 15).
+- **Glenda and Brad's house** — Daniel's parents' home; first visited Nov 19.
+- **Jennifer and Andrew's house** — on the golf course; George Michael's home. Not yet visited.
 
-## Story so far
-- Nov 12 (strip 1): Bailey naps and dreams of the squirrel with the acorn.
-- Nov 12 (strip 2): Detective Bailey solves the case of the missing treat jar; treats recovered.
-- Nov 13 (strip 3): Bailey vs. the vacuum — victory; she saved the house.
-- Nov 13 midday (Karen): Park Adventures Day 1 — butterflies, pond, new duck friend.
-- Nov 13 evening (Karen): "Bailey dreams of a starry pond" — home tired from the park with muddy paws, she snuggles into her green checkered bed and dreams of counting stars by the pond with Daisy; falls asleep smiling, dreaming of tomorrow's visit to the pond. Closes Nov 13's arc.
-- Nov 14 midday (Karen): "Super Bailey" — Daniel's pick, following from the morning's superhero daydream. Bailey wears her red blanket as a cape in the breezy front yard (63°F, partly cloudy, autumn leaves swirling). She hears a tiny "mew!" and rescues Mittens, the neighbor's orange tabby kitten, stuck in the oak tree — spreading her cape as a safety net and catching her. New friend Mittens; new title: Super Bailey, Hero of the Yard. Sets up the evening: Bailey the hero comes home for the night, cape and all.
-- Nov 14 evening (Karen): "Super Bailey's Night Patrol" — closes Nov 14's arc. Still in her red blanket-cape, Bailey does one last hero patrol of the front yard on a clear 58°F evening: the squirrel is fast asleep in the oak with her acorn, and Mittens waves goodnight from the neighbor's fence. Daniel lets her in; she hangs up the cape, curls into her green checkered bed with a treat, and dreams of flying over the yard in her cape. New routine: the Night Patrol. Ends with "Off duty... until tomorrow's adventure."
-- Nov 14: Daniel's pick "Bailey the superhero" — the 8:38am main-chat strip was retired Nov 13, so the superhero adventure moves to a Karen strip, ideally the Nov 14 midday one.
-- Nov 14 morning (Karen): "Bailey and the Blanket Fort" — a chilly 51°F pre-dawn morning (sunrise 6:47am). Bailey wakes up cold, drags her blanket into a fort on her green checkered bed, and crowns herself Queen of the Fort (sock crown). Daniel peeks in with his mug; she declares "No cold mornings allowed in my fort!" She ends snug with a treat, daydreaming of herself as a superhero in a red blanket-cape — planting the midday superhero strip. New title: Queen of the Fort. Sets up Nov 14's arc: morning fort → midday superhero (blanket as cape).
-- Nov 15 morning (Karen): "Bailey & Ruby — A Chilly Morning in Kissimmee" — a clear, chilly 49°F pre-dawn morning (sunrise 6:48am), colder than yesterday. Bailey wakes at 6am in the dark and hears singing at the window: Ruby, a bright red cardinal. They sing a dawn duet ("Arooo! Good morning, sun!"), Bailey does her big morning stretch, and together they watch the golden sunrise over the golf course from her bed. New friend Ruby the Cardinal; her nest is in the big oak tree. Sets up Nov 15's arc: Bailey promised to visit Ruby's nest after breakfast — midday likely heads to the oak tree (where Mittens was rescued Nov 14).
-- Nov 15 midday (Karen): "Ruby's Midday Song" — Daniel's pick, continuing the morning's arc. After breakfast Bailey visits Ruby's nest in the big oak tree (Ruby built it herself), then Ruby's song leads her to a sunny spot on the golf course, where they sing together in the sun (sunny 70°F). Bailey promises to bring a treat tomorrow. Sets up the evening: Bailey comes home sun-warmed and sleepy, with a treat to bring Ruby tomorrow. NOTE (Daniel's call, Nov 15): Ruby's "Same time tomorrow, Bailey!" in panel 6 was a friendly farewell, NOT a standing daily meetup. Ruby does not meet Bailey at the same spot every day. Tomorrow's arc must be a different story (new setting/theme/focus, per the Variety rules) — the promised treat can appear as a small beat if it fits, but tomorrow is NOT "Ruby's sunny spot, day 2."
-- Nov 15 evening (Karen): "A Treat for Tomorrow" — closes Nov 15's arc. Bailey comes home sun-warmed and sleepy at dusk (clear 66°F evening); Daniel greets her, she picks one biscuit from the treat jar for Ruby tomorrow, watches the stars from the porch, then Daniel reads her a bedtime story in her green checkered bed (Toy Gator beside her) and Karen tucks her in. She falls asleep dreaming of Ruby singing with the biscuit beside her. Keeps the promised-treat thread alive as a small beat for tomorrow without repeating today's Ruby meetup. PROBLEM (caught by Daniel 21:04 ET): in the "Tucked In" panel, Karen's line "Good night, sleepy girl." had its tail pointing at Bailey, so it read as Bailey saying it to herself. The run's pre-posting check wrongly passed it, and the one fix attempt also failed (tail ended up pointing at the headboard, plus a stray arrow mark), so the fixed strip was HELD — not sent to Karen, not posted to Instagram. Daniel decided 21:06 ET to leave tonight's strip as is (error stays in Karen's copy and on Instagram). The check was tightened the same night: every run must now list each bubble and who its tail points at, one by one.
-- Nov 16 morning (Karen): "Bailey & the Gator — Guard Duty at Dawn" — a clear, cool 58°F pre-dawn morning (sunrise 6:48am). The Toy Gator comes alive in Bailey's imagination overnight: he wakes her at 6am, teaches her a "swamp growl" ("Grrr... arooo!"), and they do big morning stretches together on the green checkered bed. By sunrise he is a plush toy again — but Bailey knows the truth. She tucks the biscuit for Ruby into her blanket and declares a "swamp patrol" of the yard for later. New: the Gator as an active character (Bailey's guard-duty partner); new routine idea: the Swamp Patrol. Sets up Nov 16's arc: morning guard training → midday swamp patrol in the yard (the biscuit for Ruby is a small beat to carry, not a Ruby meetup). Pre-posting check caught one error (footer copied yesterday's 49° instead of 58°); fixed once and re-checked clean before sending.
-- Nov 16 midday (Karen): "Bailey & the Gator — The Swamp Patrol" — continues the morning's arc on a warm, breezy 78°F partly cloudy noon. Bailey and the Gator (alive in her imagination) patrol the yard: first stop the big oak, where Bailey leaves the promised biscuit at the foot of the tree by Ruby's nest (Ruby herself is out — no meetup, just the delivery). A rustling leaf pile turns out to be the Squirrel with her acorn — Bailey chases her, the Squirrel escapes up the oak, still uncaught. Patrol ends with Bailey declaring the yard secure and flopping down for a nap in the oak's shade, the Gator a plush toy again. Pre-posting check caught two copy errors from the morning reference (title said "Guard Duty at Dawn", footer said 58°/sunrise); fixed once and re-checked clean — all seven bubbles' tails verified. Sets up the evening: Bailey napping in the yard, clouds gathering, showers due late tonight.
-- Nov 16 evening (Karen): "Bailey & the Gator — A Rainy Night" — closes Nov 16's arc. Bailey wakes from her nap under the oak as the first raindrops fall (cloudy 66°F dusk, rain arriving 7–9pm); she dashes inside carrying the Gator, Daniel lets her in with a towel, then a low thunder rumble brings out the thunder ritual — Bailey and Daniel bark at the thunder together at the window ("Arooo!"). She ends curled asleep in her green checkered bed with the Gator beside her, rain on the window, moon in the cloudy sky. First use of the thunder ritual in a strip. Pre-posting check caught one error (panel 6 drew Bailey's ears flopped while asleep); fixed once — ears redrawn big, pointy, and upright — and re-checked clean, all five bubbles' tails verified. Posted to Instagram as the day's carousel (media_fbid 17983679124132713).
-- Nov 17 morning (Karen): "Bailey & the Frog — A Rainy Morning" — Bailey meets Finn the Frog (small bright green tree frog on the windowsill, invites Bailey to splash in the puddles when the rain eases; sets up a puddle day). Weather: cloudy, rainy 65°F at 6am, sunrise 6:50am, rain continuing through the day. The strip was first HELD: the pre-posting check caught the footer reading 55° instead of 65°, and the one fix attempt corrected the footer but flipped the panel 1 caption to 55°. Daniel asked "Why can't you just fix it?" — two more targeted edits fixed the caption to 65° and removed a stray "65°" the first edit had left in panel 4; the strip then passed re-check and was sent to Karen (6:06am, ~6 min late) and added to the day's manifest. Finn IS now established in the story.
-- Nov 17 midday (Karen): "Bailey & Finn — A Puddle Day" — delivers the morning's promised puddle day on a showery 69°F noon (rain 61%, showers all afternoon). Bailey steps out the back door with Finn and they splash through the yard's puddles: her first splash, Finn's big hop over a puddle, a puddle race, Bailey shaking off the water, and both ending muddy and happy as Puddle Champions beside the biggest puddle as the sun starts to peek through. Pre-posting check caught four errors in the first generation (footer copied the morning's 65°/sunrise; panel 3 showed Bailey hopping instead of Finn with a duplicate dog; panel 6 had two Baileys and no Finn; panel 1's Finn line tailed at Bailey). First targeted edit fixed all four but duplicated Bailey's "Best rainy day ever!" line into panel 3; second targeted edit removed the duplicate bubble (it also dropped the two small panel captions — footer still carries the 69°/showers-at-noon context, so the strip reads fine). Strip then passed the full re-check — all seven bubbles' tails verified — and was sent to Karen at noon and added to the day's manifest. Sets up the evening: Bailey comes home soaking wet and muddy from the puddle day, rain still falling (light rain 67°F at 6pm, heavier rain due later tonight) — a towel-off and the thunder ritual are both in play if the evening storm rumbles.
-- Nov 17 evening (Karen): "Bailey & Finn — A Muddy Bath & Goodnight" — closes Nov 17's arc on a rainy 66°F evening (rain 100%, flood watch, sunset 5:31pm). Bailey comes home soaking wet and muddy from the puddle day; Finn waves goodnight from the doorstep ("Goodnight, Puddle Champion!"). Daniel towels her off in the hallway (muddy paw prints), she gets a bubble bath with the rubber duck and the Gator on the tub edge, hops clean and fluffy onto her green checkered bed, Daniel reads her a bedtime story, and Karen tucks her in as she falls asleep — "Off duty... until tomorrow's adventure." New routine beat: the muddy-paw bath after a puddle day. Pre-posting check took several rounds: v1 drew a human girl asleep in panel 6 instead of Bailey; edits fixed panel 4 (asleep→awake hop) but kept missing panel 6; v2/v3 regen fixed the panels but the footer kept coming back wrong (double dash, duplicated 66°, wrong 69°/showers-at-noon copied from midday, then a stray "5°") — the image editor would not correct the footer text, so the footer was cropped off the final image instead. Final strip passed the full check: all nine bubbles' tails verified one by one (including Karen's "Good night, sleepy girl." pointing at Karen), Bailey's look and the green checkered bed consistent across panels 4–6. Sent to Karen and posted to Instagram as the day's carousel (media_fbid 18655838140014818).
-- Nov 18 midday (Karen): "Bailey & the Squirrel — A Biscuit in the Rain" — continues the morning's truce arc on a rainy 73°F noon (light rain, showers all afternoon). Bailey carries the promised biscuit from the back door out into the rain to the big oak, where the Squirrel greets her ("You came!"); Bailey sets the biscuit at the foot of the tree ("A truce biscuit — for you!"), they shelter together under the oak's branches as the rain falls harder, and Bailey trots home wet and happy ("Best truce ever!") while the Squirrel waves from the branch. The Squirrel is now a friend, not a chase. Pre-posting check took three fix rounds: v1 caption read "12:00 non." and panel 3 lost the biscuit; fix 1 restored the biscuit in panel 3 but added one to Bailey's mouth in panel 6; fix 2 removed it from panel 6 but the caption still read "non." (the image editor could not correct the small caption text after three tries), so the caption was fixed deterministically with PIL — repainted the caption band and re-typeset it in a matching serif. Final strip passed the full check: all four bubbles' tails verified, biscuit tracked correctly through all six panels. Sent to Karen at noon and added to the day's manifest. Sets up the evening: Bailey comes home wet from the rainy truce delivery, rain still falling (light rain 69°F at 6pm, heavier rain due later tonight) — a towel-off and the thunder ritual are both in play if the evening storm rumbles.
-- Nov 18 evening (Karen): "Bailey & the Squirrel — A Truce Night" — closes Nov 18's arc on a rainy 68°F evening (showers, sunset 5:31pm, flood watch). Bailey trots home wet from the oak, Daniel towels her off at the door (muddy paw prints), then a thunder rumble brings out the thunder ritual — Bailey and Daniel bark at the thunder together at the window ("Arooo!"). The Squirrel waves goodnight from the big oak branch; Bailey waves back ("Goodnight, friend!"). Karen tucks her into her green checkered bed with the peace-offering acorn on the windowsill and the Gator beside her; she falls asleep dreaming of her and the Squirrel sharing acorns under a starry oak. The Squirrel is now a friend, not a chase. Pre-posting check caught one error (panel 4 drew the Squirrel twice — once on the branch, once on the windowsill holding an acorn); one targeted edit removed the duplicate and re-pointed the bubble tails, and the strip then passed the full re-check — all nine bubbles' tails verified. Sent to Karen at 6pm and posted to Instagram as the day's carousel (media_fbid 18187603327422493).
-- Nov 18 morning (Karen): "Bailey & the Squirrel — A Truce at Dawn" — a cloudy 64°F pre-dawn morning (sunrise 6:51am), rain due later in the day. Bailey wakes in her green checkered bed to find a single acorn on the windowsill — a peace offering from the Squirrel, her dream rival, who waves from the big oak tree: "Truce?" Bailey accepts and takes one biscuit from the treat jar to leave for her in return. Sets up Nov 18's arc: morning truce → midday biscuit delivery at the oak tree (rain arriving, showers by late morning) → evening wraps up the truce. Pre-posting check passed clean on the first generation — all five bubbles' tails verified, footer 64°/sunrise correct. New: the Squirrel as a friendly character (truce, not a chase); the acorn as a peace offering.
-- Nov 19 morning (Karen): "Bailey & the Thanksgiving Taste Test" — first Thanksgiving strip (Thanksgiving Thu Nov 26, one week away). A rainy 70°F pre-dawn morning (light rain, sunrise 6:51am, flood watch). Bailey wakes in her green checkered bed to the smell of pumpkin pie, follows the scent down the hall to the kitchen, where Karen is cooling a pumpkin pie ("Bailey! That's for Thanksgiving!"); Daniel gives her one tiny taste of crust as the Official Taste Tester, and she curls up happy on the kitchen rug ("Best job ever!"). New title: Official Thanksgiving Taste Tester. Sets up Nov 19's arc: morning taste test → midday/evening likely continue the Thanksgiving prep (rain all day, 73°F at noon). Daniel's noon guidance (Nov 19 ~08:08 ET): no table-setting strip — "it's not Thanksgiving just yet" — but anything else is fine, surprise him. Noon run picks its own between the second kitchen taste test (cranberry sauce/stuffing) and the taste-tester report to Glenda and Brad's house. Pre-posting check took a full regeneration: v1 failed on two points (panel 4's bubble had a second tail pointing at Bailey; panel 6's ears flopped while asleep); the edits fixed those but introduced new errors (panel 1's ear still flopped, panel 5's bubble dropped, then Karen drawn with dog ears). Fresh v2 passed the full check clean — all five bubbles' tails verified one by one, ears pointy and upright in all six panels, footer 70°/sunrise correct. Sent to Karen at 6am and added to the day's manifest.
-- Nov 19 midday (Karen): "Bailey & the Taste Test Report" — continues the Thanksgiving arc on a rainy 74°F noon. Bailey rides in the rain to Glenda and Brad's house to report her pumpkin pie verdict, passes Grandpa Brad's cranberry-sauce second test, and is declared "Officially approved — by Grandma and Grandpa!" First strip set at the grandparents' house. Pre-posting check: panel 5's "Officially approved" bubble tail initially pointed at Bailey; fixed deterministically with PIL (old tail erased, new tail drawn to Glenda). Final strip passed the full check — all seven bubble tails verified. Sent to Karen at noon and added to the day's manifest. Sets up the evening: Bailey comes home with the grandparents' approval and the menu to plan.
-- Nov 20 morning (Karen): "Bailey & the Hummingbird — A Dawn Visitor" — a cloudy 70°F pre-dawn morning (sunrise 6:51am, showers due later in the day, flood watch until 7pm). Bailey wakes in her green checkered bed to a tiny hum at the window and meets Holly, a tiny emerald-green hummingbird who zips by every dawn; Holly is too fast to chat, leaves a tiny pink flower on the windowsill as a hello, and invites Bailey to the garden flowers after breakfast. Bailey curls back into bed smiling, the flower beside her pillow. New friend Holly the Hummingbird (emerald green, pink throat); sets up Nov 20's arc: morning window hello → midday garden-flowers meetup (showers arriving by late morning) → evening wraps up. Pre-posting check passed clean on the first generation — all five bubbles' tails verified one by one (panel 3's Holly bubble confirmed by zoomed crop), footer 70°/sunrise correct, ears pointy and upright in all six panels. Sent to Karen at 6am and added to the day's manifest.
-- Nov 20 midday (Karen): "Bailey & Holly — A Garden Hello" — delivers the morning's promised garden-flowers meetup on a cloudy 74°F noon. After breakfast Bailey trots out carrying the tiny pink flower, meets Holly among the pink flowers, spins in circles trying to follow her darting flight, sneezes into a big blossom ("Achoo!"), then offers Holly the tiny pink flower ("For me? Thank you!") and they end lying together among the flowers ("Best garden day ever!"). Pre-posting check took two fix rounds: v1 had 7 panels (an untitled extra), a missing Holly in panel 5, and two Baileys in panel 6; v2 fixed the panel count but kept the "You came!" tail pointing at Bailey's ear and drew a second Bailey in panel 6; fix 1 removed the duplicate Bailey and put Holly on the flower but the tail still pointed at Bailey; fix 2 re-pointed the tail at Holly's beak — final strip passed the full check (all three bubbles' tails verified, one Bailey per panel, footer 74° correct). Note: the fix rounds dropped the "Wait up, Holly!" and "Achoo!" bubbles — panels 3–4 read fine without them. Sets up the evening: Bailey comes home from the garden, happy and flower-scented, on a cloudy 73°F evening — a gentle wind-down with Holly's flower as a keepsake.
-- Nov 19 evening (Karen): "Bailey & the Thanksgiving Menu" — closes Nov 19's arc on a rainy 70°F evening (showers tonight, flood watch, sunset 5:31pm). Bailey comes home wet from Glenda and Brad's; Daniel towels her off at the door, then she reports to Karen at the kitchen table ("Grandma and Grandpa approved the pie!") and they plan the Thanksgiving menu together — pie first on the list — Bailey stamps her paw print on the menu card ("Officially approved!"), Daniel rewards her with a biscuit ("Best job ever!"), and she falls asleep in her green checkered bed with the Gator beside her, dreaming of the Thanksgiving feast. New: the paw-print menu stamp as Bailey's official seal of approval. Pre-posting check took a full regeneration: v1 passed everywhere except panel 6, where one ear lay flat on the pillow while she slept; three targeted edits failed to fix it (the third returned a byte-identical file), so a fresh v2 was generated with an explicit forward-facing sleeping pose — both ears tall, pointy, and upright — and passed the full check clean (all seven bubbles' tails verified, footer 70°/flood watch correct). Sent to Karen at 6pm and posted to Instagram as the day's carousel (media_fbid 17941225581125480).
-
-## Running threads
-- "Park Adventures" series (Day 1 done) — the park and the duck can return.
-- The Swamp Patrol (new Nov 16): Bailey and the Gator's yard patrol — planted by the morning strip and carried out at midday (biscuit delivered to Ruby's nest, squirrel chased, yard declared secure).
-- Bailey collects titles: Professional Napper, Detective, Vacuum Defender, Queen of the Fort (Nov 14), Super Bailey / Hero of the Yard (Nov 14), Official Thanksgiving Taste Tester (Nov 19).
-- Thunder ritual: when it thunders, Bailey gets scared and comes to Daniel; they bark at the thunder together, which makes her feel brave and protected. She only barks at the thunder when Daniel is with her — a perfect evening-strip moment for the next storm.
+## Props & keepsakes
+- **The red blanket-cape** — Super Bailey's cape (Nov 14), hung up after the Night Patrol.
+- **The sock crown** — Queen of the Fort (Nov 14).
+- **The treat jar** — the case Detective Bailey solved (Nov 12); her biscuits come from it.
+- **The peace-offering acorn** — on Bailey's windowsill since Nov 18.
+- **The Thanksgiving menu card** — pie first on the list, stamped with Bailey's paw print (Nov 19).
+- **The rubber duck** — her bath toy (Nov 17).
+- **Holly's tiny pink flower** — Holly's now (given back Nov 20).
 
 ## How the story works
-- One day is one connected story, told in three chapters for Karen: morning (6am) → midday (12pm) → evening (6pm). Each strip follows from the ones before it that day — cause and effect, with transitions that make sense. What Bailey does in the morning affects her afternoon, and both affect her evening. (Example: if she gets muddy at the park at noon, the evening strip deals with that — a bath, or her proudly staying muddy.)
-- Animation continuity (added Nov 16, Daniel's note): the strips are now animated panel by panel, so Bailey's position must carry over from one panel to the next — if she ends a panel standing at the window, the next panel starts from there or shows her moving (e.g., hopping back into bed for a stretch). No unexplained jumps: in a static comic readers fill the gap, but in motion it reads as teleporting. (Example: Nov 15 morning — Bailey sings at the window in "The Dawn Duet" then is back under the blankets in "The Big Stretch" with no move shown.)
-- The 8:38am main-chat strip was retired Nov 13 — Karen's three strips are now the whole adventure. Daniel's picks (like "Bailey the superhero") fold into the Karen strips.
-- Bailey is always the focus and the protagonist. Other characters exist to support her story, never to take it over.
-- Characters Bailey meets develop their own backstories over time, but they only reappear when it makes sense for the story. No forced cameos — if a friend has nothing to do today, they simply aren't in today's strip.
+- One day is one story, told in three chapters for Karen: morning (6am) → midday (12pm) → evening (6pm). Each strip follows from the ones before it — cause and effect. What Bailey does in the morning affects her afternoon, and both affect her evening. (If she gets muddy at noon, the evening deals with it — a bath, or her proudly staying muddy.) On Instagram, the day's carousel should read as one complete story too.
+- Bailey is always the focus and the protagonist. Other characters support her story, never take it over.
+- Animation continuity (Daniel's note, Nov 16): the strips are animated panel by panel, so Bailey's position must carry over from one panel to the next — if she ends a panel at the window, the next panel starts there or shows her moving. No unexplained jumps: in a static comic readers fill the gap, but in motion it reads as teleporting. (Nov 15 morning: Bailey sang at the window, then was back under the blankets with no move shown.)
+- Friends develop their own backstories over time, but they appear only when the story needs them. No forced cameos.
+- The 8:38am main-chat strip was retired Nov 13 — Karen's three strips are the whole adventure. Daniel's picks fold into them.
+- Real people stay kind and true to life. Don't invent big events in their lives; small, warm moments are fine.
+- Food Bailey eats on-page is dog-safe: her biscuits, or a tiny taste of something plain (pie crust, plain turkey). Never chocolate, grapes or raisins, onions or garlic, cooked bones, or anything with xylitol. Nobody feeds Daisy bread.
+
+## Storytelling craft
+### The Story check — answer these in Today's plan
+1. **Want:** what does Bailey want today?
+2. **Problem:** what's in her way — a foe, a mystery, a promise, a mistake, the weather?
+3. **Shape:** which arc shape? Not one used in the last 7 days.
+4. **Turn:** where does the day surprise us? Something should go differently than Bailey expects — sometimes she fails first.
+5. **Laugh and heart:** one moment of each.
+6. **Ending:** how does the evening end? Not asleep in bed if two evenings this week already have.
+7. **Thread:** which open thread does it pay off, and what does it plant?
+8. **Cast:** old friends first (check Last on-page). A new friend only if there's been none this week.
+
+### Six panels, one story
+Every strip is a complete mini-story and a chapter of the day:
+1. **Hook** — open on something already happening; skip the warm-up.
+2. **Build** — Bailey goes after what she wants…
+3. **Build** — …and it gets harder, or stranger.
+4. **Turn** — a surprise, a setback, or a discovery.
+5. **Peak** — the big moment.
+6. **Button** — a punchline, a reveal, a heart beat, or a cliffhanger. The evening's panel 6 is the day's ending: make it count.
+
+### Words
+- Two bubbles per panel at most, about ten words each. Let the pictures carry the action and the words carry character. At least one panel per strip with no dialogue (a sound effect is fine).
+- Everyone sounds like themselves — see each character's voice in Cast.
+- Titles name the story, not the friend: "The Garden Digger — Clues at Dawn," not "Bailey & the Squirrel — …". Use one story title across a day's strips so the carousel reads as one story.
+- Rest these — they've become tics:
+  - "Best ___ ever!" — five times Nov 17–20. Retired until Dec 1, then once a week at most.
+  - Falling asleep "dreaming of…" — five of the seven evenings Nov 13–19. Twice a week at most.
+  - "Off duty… until tomorrow's adventure." — retired.
+  - "Arooo!" — for the thunder ritual and truly big moments only.
+  - "Officially approved!" — save it for Thanksgiving.
+  - "You came!" — twice this week; let friends greet Bailey in their own voices.
+
+### Mornings and evenings
+- Mornings start from bed (the format), but the bed is only the launchpad. Rest the visitor-at-the-window opening until Dec 4. Other ways in: mid-dream; something missing from the bed; a smell or a sound from somewhere in the house; Daniel holding the leash; rain drumming on the roof; Bailey already scheming; Bailey refusing to get up; last night's cliffhanger.
+- Evenings are at night (sunset is about 5:30pm in late November), but they don't have to end in bed: a cliffhanger, a reveal, a porch moment, a celebration, a storm, Bailey on guard duty, a punchline. Asleep in bed at most twice a week.
+
+### Callbacks
+Reward Karen for reading every day: let earlier strips matter — the acorn on the windowsill, the red cape, a friend who remembers what Bailey did for them. One light callback a day is plenty.
+
+## Arc shapes
+Pick one on purpose, log it in Story so far, and don't repeat it within 7 days.
+1. **Mystery** — the morning plants a puzzle, midday investigates (clues, suspects, a wrong guess), the evening reveals.
+2. **Quick mystery, new problem** — solved by noon, but the answer causes the evening's trouble.
+3. **Cliffhanger** — the evening ends on a question the next morning picks up (a two-day arc).
+4. **Starts mid-action** — panel 1 drops us into trouble already underway.
+5. **Point of view** — one strip, often midday, told through a friend's or Karen's eyes.
+6. **The adventure comes to Bailey** — she stays home and the world arrives: visitors, a storm, the Garbage Truck.
+7. **Things go wrong** — a plan fails comically; Bailey has to work at it, and wins on the second try (or doesn't).
+8. **Rematch** — an antagonist returns; Bailey wins, loses, or calls a truce.
+9. **Three moments, one theme** — three loosely linked vignettes (three jobs, three gifts, three hiding spots).
+10. **Family visit or holiday** — Glenda and Brad's, Jennifer and Andrew's, a holiday.
+11. **Plan → do it → home** — the old default (every day Nov 14–19). Once a week at most.
+12. **Quiet gentle day** — allowed, but rare.
+
+## Variety rules
+- Every day is a different story. Within 7 days, don't repeat a day's arc shape, main setting, theme, or main supporting character — check Story so far. Exceptions: the second day of a planned two-day arc, and small holiday lead-in beats.
+- Rotate settings: the bed, the front yard and big oak, the garden, the park and pond, the golf course, Glenda and Brad's house, Jennifer and Andrew's house, the neighborhood. Rotate story types: adventure, mystery, comedy, a quiet gentle day, a holiday, a family visit, a storm day.
+- Introduce something new at least twice a week — a place, a game, a routine, a twist. A new friend counts, but at most once a week, and only when the story earns it.
+- Not every day ends cozy at home. Some end on a question.
+
+### Anti-predictability (Daniel's call, Nov 20 — he approved all three levers)
+- **Break the default.** Wake up → meet someone new → do something together → go home became predictable (Nov 12–20). Don't use it as the default arc.
+- **Vary the shape.** Rotate the arc shapes above, and check the last 7 days' shapes — not just themes, settings, and characters.
+- **Bring back old friends first.** Ruby, Daisy, Finn, Mittens, the Squirrel, Holly, and George Michael return in new situations before anyone new arrives.
+- **Raise the stakes.** Use the antagonists (a Vacuum rematch, the Garbage Truck, Lightning with Daniel) and real problems — a lost toy, a mystery across all three strips, something Bailey has to work at.
+
+## Story seeds — ready-made days
+Use them, change them, or skip them. Each one pays off an open thread or puts an old friend in a new situation. Delete a seed once it's used.
+- **Daisy's Been Waiting** (Park Adventures • Day 2). Bailey dreams of the pond and realizes she never kept her Nov 13 promise. Midday is partly Daisy's point of view — she's been counting sunrises on the lily pads. Bailey has to win her back (a game, a brave splash into the cattails); in the evening they count stars by the pond with Daniel — the Nov 13 dream come true. Shape: point of view, making amends.
+- **Garbage Day.** The Toy Gator is missing from the bed. Bailey tracks him to the trash can at the curb just as the Garbage Truck rumbles down the street, beeping and gobbling cans. She barks the alarm, Daniel dashes out in his slippers, and they rescue the Gator at the last second. Evening: the Gator gets a bubble bath and comes alive to thank his partner. Shape: race against the clock. Needs the real garbage day.
+- **The Mystery Egg.** A golf ball lands in the yard. Bailey's sure it's an egg and goes looking for its mother: Ruby ("Not mine — mine are speckled!"), Holly ("Mine are the size of jellybeans!"), the Squirrel ("Squirrels don't lay eggs, Bailey."). Payoff: a golfer comes looking for his ball — or Bailey keeps it warm all night. Shape: comedy of errors.
+- **Cousin George Michael.** Bailey's first on-page visit to Jennifer and Andrew's house on the golf course. George Michael is not impressed by her titles. She tries to impress him and flops, then wins him over with something real. Shape: family visit, rivalry to respect. Confirm his personality with Daniel first.
+- **Where's My Bone?** The Irish bone is gone. Bailey suspects everyone; the answer is the most Bailey place possible (she hid it under her own pillow to keep it safe from the Vacuum). Shape: quick mystery, new problem. Not within a week of another mystery.
+- **A Day in the Squirrel's Paws.** Midday told from the oak: everything Bailey doesn't see. A good place to reveal the Squirrel's name. Shape: point of view.
+- **Storm Buddies.** Only on a real thunderstorm day. Mittens is caught out in the storm, terrified; Bailey brings her to Daniel, and the three face the thunder together — Bailey passing on her bravery. (Bailey still only barks at the thunder with Daniel beside her.)
+- **The Nap Championship.** Bailey just wants a nap. Ruby's singing, the Squirrel's chattering, the doorbell, and the Garbage Truck have other plans. Ends with her asleep somewhere absurd. Shape: the adventure comes to Bailey. Made for the day after Thanksgiving.
+- **The Giants on the Golf Course.** A trumpeting call at dawn; out on the fairway, tall gray birds with red caps tower over Bailey — sandhill cranes, a real Kissimmee sight. She learns to be calm and gentle around them (no chasing wildlife). A new-friend candidate for the week after Thanksgiving.
+- **Super Bailey's Sidekick.** After the Garden Digger, Mittens wants a cape of her own. The sidekick causes chaos — then saves the day. Shape: things go wrong.
+- **December:** the tree comes inside (dog logic: why is there a tree in the house?); the Night Patrol among the Christmas lights; a present with Bailey's name on it that she must not open; a Santa Paws dream (Florida snow only happens in dreams).
 
 ## Weather, seasons & holidays
 - Home is Kissimmee, FL (zip 34747). Every run checks today's weather there before generating (browser.search, weather vertical, for Kissimmee FL 34747), and the strip reflects it when it fits: rain → puddles and wet paws; heat → shade, water, and the cool tile floor; a cool morning → a cozy blanket; a storm → the thunder ritual with Daniel.
 - Florida seasons: warm most of the year. Late fall brings cooler mornings and evenings; summer brings heat and afternoon thunderstorms; winter is mild — no snow unless it's a dream or a fantasy strip (and then say so).
-- Holidays: weave them in the week before, and make the day itself about the holiday when it fits. Upcoming: Thanksgiving Thu Nov 26, 2026; Christmas Fri Dec 25, 2026; New Year's Day Fri Jan 1, 2027. Also Valentine's Day, Easter, Halloween, and Bailey's gotcha day (date unknown — ask Daniel someday).
-- Holiday strips should feel like family: decorations, gatherings at Glenda and Brad's, special treats, Bailey "helping" with preparations.
-- Daniel's call (Nov 19): there absolutely needs to be a Thanksgiving special on Thu Nov 26 — the Bailey adventures stay holiday-aware. Form (Daniel's pick, Nov 19): Thanksgiving is an all-day thing — Nov 26's three strips form the full Thanksgiving Day story (the feast, the family, what Bailey's thankful for), morning → midday → evening as one arc.
+- Holidays: weave them in the week before with small beats, and make the day itself about the holiday. Holiday strips feel like family: decorations, gatherings, special treats, Bailey "helping" with preparations.
+- Coming up: Thanksgiving Thu Nov 26, 2026; Christmas Fri Dec 25, 2026; New Year's Eve Thu Dec 31; New Year's Day Fri Jan 1, 2027. Later: Valentine's Day, Easter, Halloween, and Bailey's gotcha day (date unknown — ask Daniel).
 
-## Variety rules
-- Every day is a different story. Never repeat the same day's shape, theme, setting, or main supporting character within 7 days — check "Story so far" before generating.
-- Rotate settings: the bed, the park, the golf course, Glenda and Brad's house, the neighborhood, the yard. Rotate story types too: adventure, mystery, comedy, a quiet gentle day, a holiday, a family visit, a storm day.
-- Vary the arc: some days build to a big evening payoff; some days the morning plants a small mystery solved by noon; some days are three loosely linked moments; some days end on a cliffhanger for tomorrow.
-- Morning strips start from bed but don't have to be "waking up" — dreams, surprises, visitors at the window, and plans for the day all start in bed.
-- Evening strips are at night but don't have to end in bed — porch moments, stargazing, celebrations, and storms all count.
-- Introduce something new (a place, a friend, a game, a holiday, a twist) at least twice a week.
-- Each "Story so far" entry should note the day's theme and setting so future runs can check against the last 7 days.
+### Thanksgiving week
+A suggested order — adjust for the weather, Daniel's picks, and the variety rules:
+- **Sat Nov 21** — The Garden Digger (planned; see Today's plan).
+- **Sun Nov 22** — Daisy's Been Waiting.
+- **Mon Nov 23 – Tue Nov 24** — two of: Garbage Day (on the real garbage day), The Mystery Egg, Cousin George Michael.
+- **Wed Nov 25** — Thanksgiving Eve: the house gets ready and Bailey "helps." No table-setting before the day (Daniel, Nov 19). Optional cliffhanger: the Vacuum rolls out of the closet for the big clean.
+- **Thu Nov 26** — the Thanksgiving special.
+- **Fri Nov 27** — The Nap Championship.
 
-## Anti-predictability (Daniel's call, Nov 20 — he approved all three levers)
-- The default pattern to BREAK: wake up → meet someone new → do something together → go home. That shape became predictable (Nov 12–20). Do not use it as the default arc.
-- Vary the shape: rotate arc shapes deliberately — a morning mystery solved by noon; a cliffhanger evening that carries into tomorrow; a story that starts mid-action; a day told partly from another character's point of view (the Squirrel, Karen); a day where Bailey stays home and the adventure comes to her; a two-day arc. Check the last 7 days' arc shapes, not just themes/settings/characters.
-- Bring back old friends first: prefer established friends (Ruby, Daisy, Finn, Mittens, the Squirrel, George Michael) in NEW situations over introducing a new friend. A new friend at most once a week, and only when the story earns it — no "new friend of the day" by default.
-- Raise the stakes: use the antagonists (Vacuum Monster rematch, Garbage Truck, Lightning/thunder with Daniel) and real problems — a lost toy, a mystery to solve across all three strips, something Bailey has to work at. Not every day ends cozy at home; some days end on a question.
+### Thanksgiving special — Thu Nov 26
+Daniel's call (Nov 19): there absolutely needs to be a Thanksgiving special, and it's an all-day thing — the three strips form the full Thanksgiving Day story (the feast, the family, what Bailey's thankful for), morning → midday → evening as one arc. Draft beats below; where it's held and who comes are Daniel's to confirm (see Unknowns).
+- **Morning — Taste Tester on duty.** From bed, Bailey wakes to the smell of turkey: today is the day on the paw-stamped menu. She reports for duty as Official Thanksgiving Taste Tester and gets a real job — Guardian of the Pie. The pie is right there…
+- **Midday — The feast.** The family gathers (Jennifer and Andrew's first time on-page, if they're there). Bailey works crumb patrol under the table. One near-disaster that she saves — or causes, then fixes. Her official verdict comes from one dog-safe bite of plain turkey.
+- **Evening — Thankful.** After the feast the Vacuum Monster comes out for the crumbs (at Grandma's, its big cousin) — the long-awaited rematch — and Bailey, too full to fight, offers it a truce. Then the heart: Karen writes a thankful list and Bailey stamps her paw print beside each line — Daniel, Karen, Grandma and Grandpa, her friends, naps, pie. Only if Daniel wants it: a gentle nod to the grandparents who first loved her.
+
+### December
+- Ask Daniel whether Christmas gets an all-day special like Thanksgiving, and where the family will be.
+- Lead-up ideas are in Story seeds.
+- New Year's Eve fireworks: if they scare Bailey, it's thunder-ritual territory — Bailey and Daniel face them together. Confirm with Daniel first.
 
 ## Rules
-- Friends, places, and titles persist. Don't contradict past strips.
-- When a panel has dialogue, check that each speech bubble's tail points at the character speaking that line. The generator swapped Bailey's and Mittens's lines in the Nov 14 evening strip ("Super Bailey's Night Patrol") and it had to be fixed and reposted after publishing — verify the speaker of every line before sending.
-- When a friend returns, keep their look and personality consistent.
-- New characters get added here with a name and a one-line description.
-- After each strip, add a dated entry to "Story so far" (2–3 lines: what happened) so the next run can continue the day's arc.
+- Friends, places, props, and titles persist. Don't contradict past strips — check Cast, Open threads, and `arc-log.md`.
+- When a friend returns, keep their look, voice, and personality consistent.
+- New characters get added to Cast with a name and a one-line description (and to `characters.md`).
+- Never invent real-life facts — see Unknowns.
 
-## Pre-posting check (run before any strip is sent or posted)
+## Production — getting the drawing right
+### Prevent the known problems — put these in every image prompt
+The same errors kept coming back Nov 14–20 (details in `production-log.md`). Head them off in the prompt:
+1. **Exactly six panels** in a 2×3 grid, each with a short scene title. No seventh panel. (Nov 20 midday came out with seven.)
+2. **One Bailey per panel.** Say who is in each panel and how many. (Two Baileys: Nov 17 midday, Nov 20 midday. Two Squirrels: Nov 18 evening.)
+3. **Ears up, always.** Bailey's big pointy ears stand tall and upright in every panel — sleeping, lying down, wet, or curled up. For sleep, use a forward-facing curled pose, head up on the pillow, both ears upright. (Flopped ears: Nov 16 evening, Nov 19 morning, Nov 19 evening.)
+4. **Name every tail.** For each bubble, give the words, the speaker, and where the speaker stands: "'Good night, sleepy girl.' — Karen, left; tail points to Karen." Tails drift toward Bailey when left vague. (Nov 15 evening, Nov 17 midday, Nov 19 morning, Nov 19 midday, Nov 20 midday.)
+5. **Fresh weather text.** Take the footer and any caption from today's weather check — never from an earlier strip or a reference image. Best of all: generate the strip with no footer, then add the footer with PIL so it's exact. (Temperatures copied forward: Nov 16 morning and midday; Nov 17 morning, midday, and evening.)
+6. **Dogs are dogs; people are people.** Bailey is a dog in every panel, and humans never get dog ears. (A human girl asleep in Bailey's place: Nov 17 evening. Karen with dog ears: Nov 19 morning.)
+7. **Track props panel by panel.** "Biscuit in Bailey's mouth in panels 2–3; at the foot of the oak in panels 4–6." (Nov 18 midday: the biscuit vanished, then doubled.)
+8. **Few words.** Two bubbles per panel at most, short lines (see Storytelling craft → Words). Fewer bubbles mean fewer tails to get wrong.
+
+### Pre-posting check — run before any strip is sent or posted
 Every run reads the finished strip image and checks it before sending it to Karen or posting it to Instagram:
 1. Six panels, each with a short scene title only — never "Panel 1/2/3" labels.
-2. Dialogue: audit EVERY bubble, one by one — list each bubble's words and the character its tail actually points at. Do not just glance at the strip and pass it. (Nov 14 evening: Bailey's and Mittens's lines were swapped. Nov 15 evening: the run's check reported "passed" but missed that "Good night, sleepy girl." — Karen's line — had its tail pointing at Bailey, and the one fix attempt also failed, so that strip was held, not sent.) If any tail is ambiguous or points at the wrong character, the check fails.
-3. All text legible — no garbled, misspelled, or cut-off words in bubbles, titles, or captions.
+2. Dialogue: audit EVERY bubble, one by one — list each bubble's words and the character its tail actually points at. Don't just glance at the strip and pass it. If any tail is ambiguous or points at the wrong character, the check fails. After any fix, recount the bubbles against the script — fixes have dropped lines (Nov 19 morning, Nov 20 midday).
+3. All text legible — no garbled, misspelled, or cut-off words in bubbles, titles, captions, or the footer — and the weather text matches today's check.
 4. Bailey is she/her, natural pronouns only — never the literal text "she/her".
-5. Bailey looks right: small black-and-tan scruffy dog, big pointy ears. Returning friends keep their established look.
-6. Logic and continuity: audit EVERY panel transition, one by one (1→2, 2→3, 3→4, 4→5, 5→6) — list what changes between the panels and whether the change is shown or explained. Check: (a) position — Bailey and each friend are where the last panel left them, or the move is shown; nobody teleports; (b) props — the treat jar, biscuit, cape, toys, and anything else don't appear, vanish, or change hands without a reason; (c) time and light — the time of day and the light progress sensibly and never jump backward; (d) characters present — nobody appears or disappears between panels without arriving or leaving; (e) cause and effect — each panel follows from the one before it. (Nov 15 morning: Bailey sings standing at the window in "The Dawn Duet" then is back under the blankets in "The Big Stretch" with no move shown — a teleport the static comic hid but the animation exposed.) If any transition is unexplained, the check fails — same fix-once-or-hold rule as above.
-If anything fails: keep fixing it until it passes — fix the specific problem (image edit) or regenerate the strip, then re-check, and repeat as needed until the strip passes the full check. Never hold a strip and never send one you know is wrong: the run is not done until a passing strip is sent to Karen and recorded in the day's manifest. (Daniel's call, Nov 17: "keep trying until it's completely fixed — don't hold it, just keep generating until it's ready." The old fix-once-or-hold rule is gone; the Nov 17 morning strip is the case that changed it — it took two extra targeted edits to get the temperature right.)
+5. Bailey looks right in every panel: small black-and-tan scruffy dog, big pointy upright ears (zoom in on sleeping panels), exactly one Bailey. Humans match their reference photos. Returning friends keep their established look.
+6. Logic and continuity: audit EVERY panel transition, one by one (1→2, 2→3, 3→4, 4→5, 5→6) — list what changes between the panels and whether the change is shown or explained. Check (a) position — Bailey and each friend are where the last panel left them, or the move is shown; nobody teleports; (b) props — nothing appears, vanishes, or changes hands without a reason; (c) time and light — they progress sensibly and never jump backward; (d) characters present — nobody appears or disappears without arriving or leaving; (e) cause and effect — each panel follows from the one before it. If any transition is unexplained, the check fails.
+
+### If anything fails
+Keep fixing until it passes, then re-check the whole strip — fixes often break something else. Never hold a strip and never send one you know is wrong: the run isn't done until a passing strip is sent to Karen and recorded in the day's manifest. (Daniel's call, Nov 17: "keep trying until it's completely fixed — don't hold it, just keep generating until it's ready.")
+- Text problems (a caption, the footer, a stray mark) and single bubble tails: fix them directly with PIL. The image editor struggles with small text (Nov 17 evening, Nov 18 midday) and once returned an unchanged file (Nov 19 evening).
+- If two targeted edits haven't fixed a drawing problem, generate a fresh strip with the problem called out in the prompt. (That's what worked Nov 19 morning and evening.)
+
+## After each strip
+1. **arc-log.md** — add the strip under today's date: its title and one or two lines on what happened. After the 6pm strip, add the day's tag line (shape · settings · cast · ending).
+2. **Story so far** — after the 6pm strip, fill in today's row and delete rows older than 7 days.
+3. **Today's plan** — mark the strip done and note any change from the plan, and why. After the 6pm strip, clear the day; leave a plan for tomorrow if the story carries over.
+4. **Open threads** — add what the strip planted; delete what it paid off.
+5. **Cast** — update Last on-page for anyone who appeared. New characters get a name and a one-line description here and in `characters.md`.
+6. **Titles, places, props** — add anything new.
+7. **production-log.md** — check results, fix rounds, and Instagram post IDs go there, not in this bible.

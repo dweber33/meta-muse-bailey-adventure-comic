@@ -10,31 +10,40 @@ on Facebook Messenger:
 
 - **6:00am ET** — a morning strip, starting from bed
 - **12:00pm ET** — a daytime adventure
-- **6:00pm ET** — a nighttime wind-down
+- **6:00pm ET** — the evening chapter
 
-Each day's three strips form one connected arc (morning → midday → evening,
+Each day's three strips form one connected story (morning → midday → evening,
 cause and effect). At 6pm the day's three strips go up as one carousel on
 Instagram: **[@baileyweberadventures](https://www.instagram.com/baileyweberadventures/)**.
 
 ## Files
 
 - [`story-bible.md`](story-bible.md) — the source of truth. Every strip run
-  reads this before generating and updates it afterward. Characters, places,
-  running threads, rules, and the pre-posting check all live here.
-- [`arc-log.md`](arc-log.md) — a day-by-day log of the story: what happened,
-  which strips ran, and what changed.
-- [`characters.md`](characters.md) — character sheets: Bailey, her humans,
-  her friends, her antagonists, and her toys.
+  reads it before generating and updates it afterward: today's plan, the last
+  7 days, open threads, the cast, storytelling craft, story seeds, the
+  calendar, and the production rules.
+- [`arc-log.md`](arc-log.md) — the full day-by-day story: what happened, which
+  strips ran, and what changed. The bible keeps only the last 7 days;
+  everything lives on here.
+- [`characters.md`](characters.md) — full character sheets: Bailey, her
+  humans, her friends, her antagonists, and her toys.
+- [`production-log.md`](production-log.md) — how each strip got made:
+  pre-posting check results, fix rounds, and Instagram post IDs.
 
 ## How the story works
 
 - Bailey is always the focus and the protagonist. Other characters support
   her story, never take it over.
-- Friends keep their names and looks. New characters get a name and a
+- The 6am run plans the whole day before drawing anything: what Bailey wants,
+  what's in her way, where the day turns, one laugh, one moment of heart, and
+  how it ends.
+- Friends keep their names, looks, and voices. New characters get a name and a
   one-line description in the bible.
 - Every strip reflects the real weather for Kissimmee, FL (zip 34747), the
   season, and the holidays. Thanksgiving is Thu Nov 26, 2026; Christmas is
   Fri Dec 25, 2026.
+- Real life is the best material. Daniel can add real moments to the bible's
+  "Daniel's notes" section, and the Muse weaves them in.
 - Every strip passes a pre-posting check before it goes out: six panels with
   scene titles only, every speech bubble's tail pointing at the right
   character, legible text, natural she/her for Bailey, Bailey looking like
@@ -53,17 +62,32 @@ something together, go home — so three levers now apply:
    three strips. The arc shape is checked against the last 7 days, not just
    the theme or setting.
 2. **Bring back old friends first.** Ruby, Daisy, Finn, Mittens, the Squirrel,
-   and George Michael return in new situations before a new friend is
+   Holly, and George Michael return in new situations before a new friend is
    introduced. A new friend at most once a week, only when the story earns it.
 3. **Raise the stakes.** The antagonists (Vacuum Monster, Garbage Truck,
    Lightning) and real problems — a lost toy, a mystery to solve, something
    Bailey has to work at. Not every day ends cozy at home.
 
+And from the Nov 20 story review:
+
+- **Endings:** Bailey falls asleep in bed at most twice a week. (She did every
+  night Nov 13–19.)
+- **Words:** fewer, shorter speech bubbles, and a rest for the lines that
+  became tics ("Best ___ ever!").
+- **Titles** name the story, not the friend.
+
 ## Upcoming
 
+- **Sat Nov 21 — "The Garden Digger."** A mystery across all three strips,
+  picking up the Nov 20 cliffhanger.
+- **Thanksgiving week** — Daisy's overdue pond visit, the Garbage Truck's
+  debut, and Bailey's first visit with cousin George Michael are waiting in
+  the bible's story seeds.
 - **Thanksgiving special — Thu Nov 26, 2026.** An all-day arc: the three
-  strips tell the full Thanksgiving story, morning to night. The Official
-  Thanksgiving Taste Tester arc (Nov 19) is the lead-in.
+  strips tell the full Thanksgiving story, morning to night — the feast, the
+  family, and what Bailey's thankful for. The Official Thanksgiving Taste
+  Tester arc (Nov 19) is the lead-in.
+- **Christmas — Fri Dec 25, 2026.**
 
 ## Contributing
 
