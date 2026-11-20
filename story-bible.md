@@ -17,10 +17,7 @@ Companion files: `arc-log.md` — the full story, day by day (this bible keeps o
 ## Today's plan
 The 6am run writes the day's plan here; the noon and 6pm runs follow it. Daniel's picks override it.
 
-**Fri Nov 20 — evening (6pm), the first strip under the new shape rules**
-- Morning and midday ran as logged in `arc-log.md`.
-- Evening — "The Garden Digger — Holes in the Dark." Cliffhanger. The Night Patrol returns (first since Nov 14). In Holly's garden after dark, Bailey finds fresh little holes dug among the pink flowers and Holly's tiny flower knocked into the dirt; she sets it back up. Holly is asleep on her twig and can't say who did it. A rustle at the fence — two eyes glint in the dark — gone. Last panel: "Someone's digging in Holly's garden… Detective Bailey is on the case!" and a small "To be continued…". Not asleep in bed.
-- If the 6pm strip ran differently, log what ran and rethink Sat Nov 21 below.
+**Fri Nov 20 — done.** Evening ran as planned: "The Garden Digger — Holes in the Dark." Night Patrol returned, cliffhanger landed — someone's digging in Holly's garden, two eyes glinting at the fence. First strip under the new shape rules.
 
 **Sat Nov 21 — "The Garden Digger"** (two-day arc, day 2)
 - Shape: mystery across all three strips, picking up the Nov 20 cliffhanger. Main supporting character: Mittens (last on-page Nov 14), as Bailey's new sidekick. Also: the Squirrel (a suspect), Holly (it's her garden), the Toy Gator (imaginary partner).
@@ -44,7 +41,7 @@ One row per day. The 6pm run fills in today's row and deletes rows older than 7 
 | Tue Nov 17 | Finn the Frog | New friend: meet → play → bath | Rainy window, yard puddles, bath | Finn (new), Daniel, Karen | Bath and bedtime story; asleep in bed |
 | Wed Nov 18 | The Squirrel's Truce | Rival → truce → delivery | Windowsill, big oak in the rain | The Squirrel, Daniel, Karen | Thunder ritual; asleep in bed, dreaming |
 | Thu Nov 19 | Official Thanksgiving Taste Tester | Holiday lead-in: taste → report → plan | Kitchen, Glenda and Brad's house | Karen, Daniel, Glenda, Brad | Asleep in bed, dreaming of the feast |
-| Fri Nov 20 | Holly the Hummingbird | New friend: meet → garden → cliffhanger (planned) | Bedroom window, garden | Holly (new) | (6pm run fills in) |
+| Fri Nov 20 | Holly the Hummingbird | New friend: meet → garden → cliffhanger | Bedroom window, garden | Holly (new) | Cliffhanger — someone's digging in Holly's garden; Detective Bailey is on the case |
 
 **Patterns to break:** every evening Nov 13–19 ended with Bailey asleep in bed (five of them with a dream); four of the last seven days introduced a new friend; four of the last six mornings opened with a visitor at the bedroom window; every day since Nov 15 has used "Bailey & …" titles; every day Nov 14–19 ran plan → do it → home.
 
