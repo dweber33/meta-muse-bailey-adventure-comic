@@ -15,6 +15,14 @@ Each run adds its notes under the day's heading.
 | Wed Nov 18 | 18187603327422493 | |
 | Thu Nov 19 | 17941225581125480 | |
 
+## Instagram reels (narrated)
+
+Each evening, after the carousel, the day's three strips are stitched into a vertical 1080x1920 reel with a voiceover telling the day's story. Daniel asked for this 2026-11-20 after seeing a sample of Nov 19's story. The carousel still posts as before; the reel is in addition.
+
+| Day | media_fbid | Note |
+|---|---|---|
+| Thu Nov 19 | 18115720976062374 | Posted 2026-11-20 as a one-off sample (reel URL https://www.instagram.com/reel/Df-nFYJDi6w/); first reel. |
+
 ## Nov 14
 - **Evening, "Super Bailey's Night Patrol":** the generator swapped Bailey's and Mittens's lines in panel 3. It was caught after publishing; the carousel was deleted and reposted with the fix. This is why every bubble's speaker gets verified.
 - **The Irish bone:** the first drawing turned it into a little bear character. Daniel corrected it: draw it as a bone only.
@@ -45,3 +53,4 @@ Each run adds its notes under the day's heading.
 ## Nov 20
 - **Morning:** passed clean on the first generation: all five tails verified one by one (panel 3's Holly bubble confirmed with a zoomed crop), footer 70°/sunrise correct, ears pointy and upright in all six panels. Sent at 6am.
 - **Midday:** took two fix rounds. v1 had seven panels (an untitled extra), no Holly in panel 5, and two Baileys in panel 6. v2 fixed the panel count but kept the "You came!" tail pointing at Bailey's ear and drew a second Bailey in panel 6. Fix 1 removed the duplicate Bailey and put Holly on the flower, but the tail still pointed at Bailey; fix 2 re-pointed it at Holly's beak. The final strip passed the full check (all three tails verified, one Bailey per panel, footer 74° correct). The fix rounds dropped the "Wait up, Holly!" and "Achoo!" bubbles; panels 3–4 read fine without them.
+- **Evening, "The Garden Digger — Holes in the Dark":** passed clean on the first generation: all five tails verified one by one, one Bailey per panel, ears pointy and upright in all six panels, footer 72°/evening correct (added with PIL). Sent at 6pm and posted to Instagram (17974236936187292). Minor nit noted, not a fail: the moon is full in panels 1–2 but a crescent in panel 6.
