@@ -32,7 +32,10 @@ The 6am run writes the day's plan here; the noon and 6pm runs follow it. Daniel'
 - Weather: cloudy 65°F at 6 a.m., sunrise 6:53 a.m., high 77°F, mostly dry.
 - Morning (from bed): Bailey wakes mid-dream of the pond and realizes she never went back. She packs biscuit, bone, and Gator, tells Karen, and heads out with Daniel holding the leash. ✅ Done 6am Nov 22 ("Daisy's Been Waiting — A Promise to Keep") — sent to Karen; passed the full pre-posting check on the first generation (all seven tails verified one by one; panel 1 has no dialogue). Footer added with PIL: cloudy 65°F at 6 a.m., sunrise 6:53 a.m., Kissimmee, FL. Minor nit, not a fail: the biscuit in Bailey's mouth in panel 4 is set down off-panel before panel 5, where she uses both paws to tug Karen's sleeve.
 - Midday: partly Daisy's point of view — she's been counting sunrises on the lily pads. Bailey has to win her back. ✅ Done 12pm Nov 22 ("Daisy's Been Waiting — A Splashy Apology") — sent to Karen; passed the full pre-posting check on the first generation (all five tails verified one by one; panel 5 has no dialogue, only the SPLASH! sound effect; biscuit tracked mouth → bank → Daisy's beak). Footer added with PIL: partly cloudy 75°F at noon, Kissimmee, FL. Minor nit, not a fail: Daniel reads as standing in the shallows in panel 2.
-- Evening: counting stars by the pond with Daniel — the Nov 13 dream come true.
+- Evening: counting stars by the pond with Daniel — the Nov 13 dream come true. ✅ Done 6pm Nov 22 ("Daisy's Been Waiting — Stars by the Pond") — sent to Karen; passed the full pre-posting check after a PIL tail fix (panel 6's "Promise kept, Bailey." bubble had two tails; the one pointing down at Daisy was erased with PIL — two earlier fix attempts failed, one leaving a white ghost, one missing the tail ~20px left of its true spot at x 1476–1486; panel 4's "Look — a shooting star!" tail points at Daisy, so the line is hers). Footer added with PIL: mostly cloudy 69°F at 6 p.m., Kissimmee, FL. Posted to Instagram as the day's carousel (18085710560391072). The Nov 13 promise is kept; "Daisy is still waiting" thread paid off.
+
+## Mon Nov 23 — Thanksgiving week
+Per the Thanksgiving week plan, pick two of: Garbage Day (needs the real garbage day — still unknown), The Mystery Egg, Cousin George Michael. No new friends this week; old friends first.
 
 ## Daniel's notes — real life to weave in
 Daniel adds real moments here or in chat: something Bailey really did, a family event, Karen's day. Use fresh notes first — real life is the best material this comic has. Mark each note "used Nov __" once it's in a strip.
@@ -50,12 +53,12 @@ One row per day. The 6pm run fills in today's row and deletes rows older than 7 
 | Thu Nov 19 | Official Thanksgiving Taste Tester | Holiday lead-in: taste → report → plan | Kitchen, Glenda and Brad's house | Karen, Daniel, Glenda, Brad | Asleep in bed, dreaming of the feast |
 | Fri Nov 20 | Holly the Hummingbird | New friend: meet → garden → cliffhanger | Bedroom window, garden | Holly (new) | Cliffhanger — someone's digging in Holly's garden; Detective Bailey is on the case |
 | Sat Nov 21 | The Garden Digger | Mystery, day 2 of a two-day arc | Garden, big oak | The Squirrel, Mittens, Holly | Ends with Bailey burying her own biscuit in Holly's garden — not asleep in bed |
+| Sun Nov 22 | Daisy's Been Waiting | Point of view, making amends | Park pond | Daisy, Daniel | Asleep under the stars at the pond; promise kept |
 
 **Patterns to break:** every evening Nov 13–19 ended with Bailey asleep in bed (five of them with a dream); four of the last seven days introduced a new friend; four of the last six mornings opened with a visitor at the bedroom window; every day since Nov 15 has used "Bailey & …" titles; every day Nov 14–19 ran plan → do it → home.
 
 ## Open threads — setups waiting for a payoff
 Pay these off before planting new ones. Add what a strip plants; delete a line once it's paid off.
-- **Daisy is still waiting.** Nov 13 ended with Bailey dreaming of "tomorrow's visit to the pond" — she never went back, and Daisy hasn't been seen since. → seed: Daisy's Been Waiting.
 - **The Vacuum wants a rematch.** Defeated Nov 13; it lurks in the closet. Best stage: Thanksgiving crumbs.
 - **The Garbage Truck has never appeared.** Its debut needs the real garbage day (see Unknowns).
 - **George Michael, Aunt Jennifer, and Uncle Andrew have never been on-page,** and their golf-course house has never been visited.
@@ -224,7 +227,6 @@ Pick one on purpose, log it in Story so far, and don't repeat it within 7 days.
 
 ## Story seeds — ready-made days
 Use them, change them, or skip them. Each one pays off an open thread or puts an old friend in a new situation. Delete a seed once it's used.
-- **Daisy's Been Waiting** (Park Adventures • Day 2). Bailey dreams of the pond and realizes she never kept her Nov 13 promise. Midday is partly Daisy's point of view — she's been counting sunrises on the lily pads. Bailey has to win her back (a game, a brave splash into the cattails); in the evening they count stars by the pond with Daniel — the Nov 13 dream come true. Shape: point of view, making amends.
 - **Garbage Day.** The Toy Gator is missing from the bed. Bailey tracks him to the trash can at the curb just as the Garbage Truck rumbles down the street, beeping and gobbling cans. She barks the alarm, Daniel dashes out in his slippers, and they rescue the Gator at the last second. Evening: the Gator gets a bubble bath and comes alive to thank his partner. Shape: race against the clock. Needs the real garbage day.
 - **The Mystery Egg.** A golf ball lands in the yard. Bailey's sure it's an egg and goes looking for its mother: Ruby ("Not mine — mine are speckled!"), Holly ("Mine are the size of jellybeans!"), the Squirrel ("Squirrels don't lay eggs, Bailey."). Payoff: a golfer comes looking for his ball — or Bailey keeps it warm all night. Shape: comedy of errors.
 - **Cousin George Michael.** Bailey's first on-page visit to Jennifer and Andrew's house on the golf course. George Michael is not impressed by her titles. She tries to impress him and flops, then wins him over with something real. Shape: family visit, rivalry to respect. Confirm his personality with Daniel first.
