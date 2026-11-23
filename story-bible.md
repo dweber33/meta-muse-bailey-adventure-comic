@@ -37,6 +37,13 @@ The 6am run writes the day's plan here; the noon and 6pm runs follow it. Daniel'
 ## Mon Nov 23 — Thanksgiving week
 Per the Thanksgiving week plan, pick two of: Garbage Day (real garbage days are Monday and Thursday — but a Garbage Day story doesn't have to run on a garbage day; use it when it fits), The Mystery Egg, Cousin George Michael. No new friends this week; old friends first.
 
+**Mon Nov 23 — "Garbage Day"** (race against the clock; Garbage Truck debut)
+- Story check: Want — find her missing Toy Gator before the Garbage Truck takes him. Problem — Gator is gone from the bed and the trash can is already at the curb; the truck is coming down the street. Shape — race against the clock (not used in the last 7 days). Turn — the clue is one yellow spike on the kitchen floor; the can is already at the curb. Laugh — Daniel dashing out in his slippers (midday). Heart — the Gator gets a bubble bath and comes alive to thank his partner (evening). Ending — asleep in bed together, Gator safe beside her. Thread — pays off "The Garbage Truck has never appeared" (its debut) and the Gator's first time as the center of a story. Cast — Toy Gator (last alive Nov 16), Daniel, the Garbage Truck (debut); no new friends.
+- Weather: cloudy 63°F at 6 a.m., sunrise 6:54 a.m., high 70°F, dry.
+- Morning (from bed): Bailey wakes to an empty spot where the Gator sleeps. She searches the bed, finds one yellow spike on the kitchen floor by the trash can's empty spot, sees the can at the curb through the window — and the truck rumbling down the street. She barks Daniel to the door and stands on the porch, determined: "Hold on, Gator. I'm coming!" ✅ Done 6am Nov 23 ("Garbage Day — An Empty Spot") — sent to Karen; passed the full pre-posting check on the first generation (all five bubbles verified one by one; panel 4 has no dialogue, only the "RUMBLE… BEEP BEEP!" sound effect). Footer added with PIL: cloudy 63°F at 6 a.m., sunrise 6:54 a.m., Kissimmee, FL. Minor nits, not fails: a dark patch reads as the empty spot in the bed (panel 1) and a shadow-like stain on the kitchen floor (panel 3).
+- Midday: at the curb, the truck rumbles down the street beeping and gobbling cans. Bailey barks the alarm; Daniel dashes out in his slippers; they rescue the Gator at the last second.
+- Evening: the Gator gets a bubble bath and comes alive to thank his partner. Ends asleep in bed together.
+
 ## Daniel's notes — real life to weave in
 Daniel adds real moments here or in chat: something Bailey really did, a family event, Karen's day. Use fresh notes first — real life is the best material this comic has. Mark each note "used Nov __" once it's in a strip.
 - (none yet)
@@ -60,7 +67,7 @@ One row per day. The 6pm run fills in today's row and deletes rows older than 7 
 ## Open threads — setups waiting for a payoff
 Pay these off before planting new ones. Add what a strip plants; delete a line once it's paid off.
 - **The Vacuum wants a rematch.** Defeated Nov 13; it lurks in the closet. Best stage: Thanksgiving crumbs.
-- **The Garbage Truck has never appeared.** Real garbage days are Monday and Thursday (Daniel, Nov 23) — its debut can run on one of those days, but doesn't have to.
+- **The Garbage Truck debuts Nov 23 (Garbage Day).** Bailey's morning strip introduces it rumbling down the street; the rescue plays out at midday.
 - **George Michael, Aunt Jennifer, and Uncle Andrew have never been on-page,** and their golf-course house has never been visited.
 - **The Irish bone has never been the center of a story** — the best lost-toy candidate.
 - **Ruby never thanked Bailey for the biscuit** left at the oak on Nov 16 (she was out). A small beat whenever Ruby returns.
@@ -121,11 +128,11 @@ Real family. They appear only when the story calls for them — Bailey is always
 
 ### Antagonists — the troublemakers of Bailey's world
 - **The Vacuum (Vacuum Monster)** — the roaring monster from the closet that sucks up crumbs and treats. Bailey barked it into submission and stood on top of it in victory (Nov 13). Defeated for now, but it lurks in the closet and wants a rematch. **Last on-page: Nov 13.**
-- **The Garbage Truck** — a big growling truck that rumbles down the street on garbage day, beeping as it backs up and gobbling up the cans. Loud, smelly, and far too big to bark into submission — Bailey guards the yard and outlasts it. **Not yet on-page.**
+- **The Garbage Truck** — a big growling truck that rumbles down the street on garbage day, beeping as it backs up and gobbling up the cans. Loud, smelly, and far too big to bark into submission — Bailey guards the yard and outlasts it. **Debuted Nov 23 (Garbage Day).**
 - **Lightning** — the flash in the storm clouds, crackling and teasing, with Thunder as its roaring voice. It scares Bailey, but when it flashes she runs to Daniel and they bark at the thunder together. The one foe she faces with Daniel at her side. **Last on-page: Nov 18.**
 
 ### Bailey's toys
-- **The Toy Gator** — green-and-blue plush alligator with yellow spikes along his back; one of Bailey's favorite toys. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/bailey_toys_reference.jpg. In Bailey's imagination he comes alive as a gruff, loyal swamp buddy who guards the bed — and he's a plush again by the end of the scene. On Nov 16 he woke her at 6am, taught her a swamp growl ("Grrr... arooo!"), and became her partner for the Swamp Patrol. Usually beside her in bed. **Last alive: Nov 16.**
+- **The Toy Gator** — green-and-blue plush alligator with yellow spikes along his back; one of Bailey's favorite toys. Reference photo: ~/workspace/goals/daily-bailey-comic-strip/hidden_files/bailey_toys_reference.jpg. In Bailey's imagination he comes alive as a gruff, loyal swamp buddy who guards the bed — and he's a plush again by the end of the scene. On Nov 16 he woke her at 6am, taught her a swamp growl ("Grrr... arooo!"), and became her partner for the Swamp Patrol. Usually beside her in bed. **Last alive: Nov 16.** Missing from the bed Nov 23 — the center of Garbage Day.
 - **The Irish Bone ("KISS ME" bone)** — black bone-shaped toy covered in green and yellow shamrocks, with "KISS ME" stitched across it. Same reference photo. Bailey's favorite chew toy — she carries it around and guards it proudly. Draw it as the bone itself only — a bone shape lying down or being carried, never a character with a face, arms, or a body. (Daniel corrected this Nov 14: the first drawing turned it into a little bear character.) **Never yet the center of a story.**
 
 ## Places
@@ -272,7 +279,7 @@ Daniel's call (Nov 19): there absolutely needs to be a Thanksgiving special, and
 
 ## Production — getting the drawing right
 ### Prevent the known problems — put these in every image prompt
-The same errors kept coming back Nov 14–20 (details in `production-log.md`). Head them off in the prompt:
+The same errors kept coming back Nov 14–20 (details in `production-log.md`). Head them off in the prompt. Character model sheets (Nov 23, in this folder) are the look reference — use them when writing prompts and checking strips: Sheet 1 core turnaround (`media-generation-bailey-sheet-1-core-turnaround-0-d7931596-f053-49e1-b77f-368c540b4541.webp`), Sheet 2 expressions (`media-generation-bailey-sheet-2-expressions-0-fb371c06-44f2-4714-9842-5ffd32417c19.webp`), Sheet 3 action (`media-generation-bailey-sheet-3-action-0-81748f5d-50a2-41f2-a220-ffa69b3e0508.webp`), Sheet 4 props (`media-generation-bailey-sheet-4-props-0-e391b9c9-f755-401e-a7fe-eeea27f72f3e.webp`).
 1. **Exactly six panels** in a 2×3 grid, each with a short scene title. No seventh panel. (Nov 20 midday came out with seven.)
 2. **One Bailey per panel.** Say who is in each panel and how many. (Two Baileys: Nov 17 midday, Nov 20 midday. Two Squirrels: Nov 18 evening.)
 3. **Ears up, always.** Bailey's big pointy ears stand tall and upright in every panel — sleeping, lying down, wet, or curled up. For sleep, use a forward-facing curled pose, head up on the pillow, both ears upright. (Flopped ears: Nov 16 evening, Nov 19 morning, Nov 19 evening.)
