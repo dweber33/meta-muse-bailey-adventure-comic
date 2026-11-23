@@ -35,7 +35,7 @@ The 6am run writes the day's plan here; the noon and 6pm runs follow it. Daniel'
 - Evening: counting stars by the pond with Daniel — the Nov 13 dream come true. ✅ Done 6pm Nov 22 ("Daisy's Been Waiting — Stars by the Pond") — sent to Karen; passed the full pre-posting check after a PIL tail fix (panel 6's "Promise kept, Bailey." bubble had two tails; the one pointing down at Daisy was erased with PIL — two earlier fix attempts failed, one leaving a white ghost, one missing the tail ~20px left of its true spot at x 1476–1486; panel 4's "Look — a shooting star!" tail points at Daisy, so the line is hers). Footer added with PIL: mostly cloudy 69°F at 6 p.m., Kissimmee, FL. Posted to Instagram as the day's carousel (18085710560391072). The Nov 13 promise is kept; "Daisy is still waiting" thread paid off.
 
 ## Mon Nov 23 — Thanksgiving week
-Per the Thanksgiving week plan, pick two of: Garbage Day (needs the real garbage day — still unknown), The Mystery Egg, Cousin George Michael. No new friends this week; old friends first.
+Per the Thanksgiving week plan, pick two of: Garbage Day (real garbage days are Monday and Thursday — but a Garbage Day story doesn't have to run on a garbage day; use it when it fits), The Mystery Egg, Cousin George Michael. No new friends this week; old friends first.
 
 ## Daniel's notes — real life to weave in
 Daniel adds real moments here or in chat: something Bailey really did, a family event, Karen's day. Use fresh notes first — real life is the best material this comic has. Mark each note "used Nov __" once it's in a strip.
@@ -60,7 +60,7 @@ One row per day. The 6pm run fills in today's row and deletes rows older than 7 
 ## Open threads — setups waiting for a payoff
 Pay these off before planting new ones. Add what a strip plants; delete a line once it's paid off.
 - **The Vacuum wants a rematch.** Defeated Nov 13; it lurks in the closet. Best stage: Thanksgiving crumbs.
-- **The Garbage Truck has never appeared.** Its debut needs the real garbage day (see Unknowns).
+- **The Garbage Truck has never appeared.** Real garbage days are Monday and Thursday (Daniel, Nov 23) — its debut can run on one of those days, but doesn't have to.
 - **George Michael, Aunt Jennifer, and Uncle Andrew have never been on-page,** and their golf-course house has never been visited.
 - **The Irish bone has never been the center of a story** — the best lost-toy candidate.
 - **Ruby never thanked Bailey for the biscuit** left at the oak on Nov 16 (she was out). A small beat whenever Ruby returns.
@@ -71,7 +71,7 @@ Pay these off before planting new ones. Add what a strip plants; delete a line o
 ## Unknowns — ask Daniel; never invent
 These are real-life facts. Leave them out of strips, or keep them vague, until Daniel answers — then move the answer into this bible.
 - Thanksgiving location — ANSWERED Nov 22 (Daniel): dinner is at Jennifer and Andrew Ruben's house on the golf course — his younger sister's house. Who else is coming beyond the hosts is still open (Glenda and Brad not yet confirmed).
-- Which day the real garbage truck comes.
+- Garbage day — ANSWERED Nov 23 (Daniel): the truck comes Monday and Thursday. Garbage Day stories are optional on those days, not required — use the story when it fits, not just because it's a garbage day.
 - Bailey's gotcha day.
 - Karen's birthday and Daniel and Karen's anniversary — Karen's big days deserve special strips.
 - A reference photo of Bailey herself (everyone else has one).
@@ -227,7 +227,7 @@ Pick one on purpose, log it in Story so far, and don't repeat it within 7 days.
 
 ## Story seeds — ready-made days
 Use them, change them, or skip them. Each one pays off an open thread or puts an old friend in a new situation. Delete a seed once it's used.
-- **Garbage Day.** The Toy Gator is missing from the bed. Bailey tracks him to the trash can at the curb just as the Garbage Truck rumbles down the street, beeping and gobbling cans. She barks the alarm, Daniel dashes out in his slippers, and they rescue the Gator at the last second. Evening: the Gator gets a bubble bath and comes alive to thank his partner. Shape: race against the clock. Needs the real garbage day.
+- **Garbage Day.** The Toy Gator is missing from the bed. Bailey tracks him to the trash can at the curb just as the Garbage Truck rumbles down the street, beeping and gobbling cans. She barks the alarm, Daniel dashes out in his slippers, and they rescue the Gator at the last second. Evening: the Gator gets a bubble bath and comes alive to thank his partner. Shape: race against the clock. Real garbage days are Monday and Thursday — but the story doesn't have to run on one of them; use it when it fits.
 - **The Mystery Egg.** A golf ball lands in the yard. Bailey's sure it's an egg and goes looking for its mother: Ruby ("Not mine — mine are speckled!"), Holly ("Mine are the size of jellybeans!"), the Squirrel ("Squirrels don't lay eggs, Bailey."). Payoff: a golfer comes looking for his ball — or Bailey keeps it warm all night. Shape: comedy of errors.
 - **Cousin George Michael.** Bailey's first on-page visit to Jennifer and Andrew's house on the golf course. George Michael is not impressed by her titles. She tries to impress him and flops, then wins him over with something real. Shape: family visit, rivalry to respect. Confirm his personality with Daniel first.
 - **Where's My Bone?** The Irish bone is gone. Bailey suspects everyone; the answer is the most Bailey place possible (she hid it under her own pillow to keep it safe from the Vacuum). Shape: quick mystery, new problem. Not within a week of another mystery.
@@ -248,7 +248,7 @@ Use them, change them, or skip them. Each one pays off an open thread or puts an
 A suggested order — adjust for the weather, Daniel's picks, and the variety rules:
 - **Sat Nov 21** — The Garden Digger (planned; see Today's plan).
 - **Sun Nov 22** — Daisy's Been Waiting.
-- **Mon Nov 23 – Tue Nov 24** — two of: Garbage Day (on the real garbage day), The Mystery Egg, Cousin George Michael.
+- **Mon Nov 23 – Tue Nov 24** — two of: Garbage Day (real garbage days Mon & Thu, but the story doesn't have to run on one), The Mystery Egg, Cousin George Michael.
 - **Wed Nov 25** — Thanksgiving Eve: the house gets ready and Bailey "helps." No table-setting before the day (Daniel, Nov 19). Optional cliffhanger: the Vacuum rolls out of the closet for the big clean.
 - **Thu Nov 26** — the Thanksgiving special.
 - **Fri Nov 27** — The Nap Championship.
