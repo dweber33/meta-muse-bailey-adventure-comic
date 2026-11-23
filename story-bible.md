@@ -42,7 +42,9 @@ Per the Thanksgiving week plan, pick two of: Garbage Day (real garbage days are 
 - Weather: cloudy 63°F at 6 a.m., sunrise 6:54 a.m., high 70°F, dry.
 - Morning (from bed): Bailey wakes to an empty spot where the Gator sleeps. She searches the bed, finds one yellow spike on the kitchen floor by the trash can's empty spot, sees the can at the curb through the window — and the truck rumbling down the street. She barks Daniel to the door and stands on the porch, determined: "Hold on, Gator. I'm coming!" ✅ Done 6am Nov 23 ("Garbage Day — An Empty Spot") — sent to Karen; passed the full pre-posting check on the first generation (all five bubbles verified one by one; panel 4 has no dialogue, only the "RUMBLE… BEEP BEEP!" sound effect). Footer added with PIL: cloudy 63°F at 6 a.m., sunrise 6:54 a.m., Kissimmee, FL. Minor nits, not fails: a dark patch reads as the empty spot in the bed (panel 1) and a shadow-like stain on the kitchen floor (panel 3).
 - Midday: at the curb, the truck rumbles down the street beeping and gobbling cans. Bailey barks the alarm; Daniel dashes out in his slippers; they rescue the Gator at the last second. ✅ Done 12pm Nov 23 ("Garbage Day — The Rescue at the Curb") — sent to Karen; passed the full pre-posting check after panel surgery (panels 4 and 5 redrawn standalone and pasted back with PIL: panel 4 had no Gator in the lifted can, panel 5 drew the Gator twice plus a second can). Footer added with PIL: cloudy 65°F at noon, Kissimmee, FL.
-- Evening: the Gator gets a bubble bath and comes alive to thank his partner. Ends asleep in bed together.
+- Evening: the Gator gets a bubble bath and comes alive to thank his partner. Ends asleep in bed together. ✅ Done 6pm Nov 23 ("Garbage Day — A Bubble Bath for the Gator") — sent to Karen; passed the full pre-posting check after panel surgery (panel 4 redrawn standalone: v1 had two Gators and no Bailey; fixed panel has one Gator and Bailey standing on all fours, pasted back with PIL). Footer added with PIL: showers 64°F at 6 p.m., Kissimmee, FL. Posted to Instagram as the day's carousel (18121140025809267). Garbage Day is done; the Gator is clean and safe in bed beside Bailey.
+
+**Tue Nov 24** — per the Thanksgiving week plan, pick from The Mystery Egg or Cousin George Michael (Garbage Day is done). The 6am run writes the plan.
 
 ## Daniel's notes — real life to weave in
 Daniel adds real moments here or in chat: something Bailey really did, a family event, Karen's day. Use fresh notes first — real life is the best material this comic has. Mark each note "used Nov __" once it's in a strip.
@@ -53,7 +55,6 @@ One row per day. The 6pm run fills in today's row and deletes rows older than 7 
 
 | Day | Story | Shape | Main settings | Supporting cast | How it ended |
 |---|---|---|---|---|---|
-| Sun Nov 15 | Ruby the Cardinal | New friend: meet → visit → wind-down | Window, oak and nest, golf course, porch | Ruby (new), Daniel, Karen | Asleep in bed, dreaming of Ruby |
 | Mon Nov 16 | The Gator & the Swamp Patrol | Plan → patrol → storm | Bed, yard and big oak | Toy Gator, the Squirrel, Daniel | Thunder ritual; asleep in bed |
 | Tue Nov 17 | Finn the Frog | New friend: meet → play → bath | Rainy window, yard puddles, bath | Finn (new), Daniel, Karen | Bath and bedtime story; asleep in bed |
 | Wed Nov 18 | The Squirrel's Truce | Rival → truce → delivery | Windowsill, big oak in the rain | The Squirrel, Daniel, Karen | Thunder ritual; asleep in bed, dreaming |
@@ -61,13 +62,14 @@ One row per day. The 6pm run fills in today's row and deletes rows older than 7 
 | Fri Nov 20 | Holly the Hummingbird | New friend: meet → garden → cliffhanger | Bedroom window, garden | Holly (new) | Cliffhanger — someone's digging in Holly's garden; Detective Bailey is on the case |
 | Sat Nov 21 | The Garden Digger | Mystery, day 2 of a two-day arc | Garden, big oak | The Squirrel, Mittens, Holly | Ends with Bailey burying her own biscuit in Holly's garden — not asleep in bed |
 | Sun Nov 22 | Daisy's Been Waiting | Point of view, making amends | Park pond | Daisy, Daniel | Asleep under the stars at the pond; promise kept |
+| Mon Nov 23 | Garbage Day | Race against the clock | Bed, kitchen, curb, bathroom | Toy Gator, Daniel, Karen, Garbage Truck | Asleep in bed together, Gator safe beside her |
 
 **Patterns to break:** every evening Nov 13–19 ended with Bailey asleep in bed (five of them with a dream); four of the last seven days introduced a new friend; four of the last six mornings opened with a visitor at the bedroom window; every day since Nov 15 has used "Bailey & …" titles; every day Nov 14–19 ran plan → do it → home.
 
 ## Open threads — setups waiting for a payoff
 Pay these off before planting new ones. Add what a strip plants; delete a line once it's paid off.
 - **The Vacuum wants a rematch.** Defeated Nov 13; it lurks in the closet. Best stage: Thanksgiving crumbs.
-- **The Garbage Truck debuts Nov 23 (Garbage Day).** Bailey's morning strip introduces it rumbling down the street; the rescue plays out at midday.
+- **The Garbage Truck debuted Nov 23 (Garbage Day)** — Bailey outlasted it and rescued the Gator. It can rumble back on a real garbage day (Monday and Thursday).
 - **George Michael, Aunt Jennifer, and Uncle Andrew have never been on-page,** and their golf-course house has never been visited.
 - **The Irish bone has never been the center of a story** — the best lost-toy candidate.
 - **Ruby never thanked Bailey for the biscuit** left at the oak on Nov 16 (she was out). A small beat whenever Ruby returns.
