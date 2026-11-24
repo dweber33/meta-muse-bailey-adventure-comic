@@ -85,6 +85,7 @@ Pay these off before planting new ones. Add what a strip plants; delete a line o
 - **The Squirrel has no name.** A story can reveal it, or Daniel can name her (he named Daisy).
 - **Routines used once:** the Night Patrol (Nov 14; returns Nov 20), the Swamp Patrol (Nov 16), the paw-print stamp (Nov 19).
 - **Thanksgiving pays off** the Official Thanksgiving Taste Tester title and the paw-stamped menu card.
+- **The golf ball comes back (Daniel's idea, Nov 24).** Bailey found a golf ball Nov 24 and guarded it as a "mystery egg." At some point she finds it again, returns it to the golfer who lost it, and they play fetch — Bailey loves fetching balls.
 
 ## Unknowns — ask Daniel; never invent
 These are real-life facts. Leave them out of strips, or keep them vague, until Daniel answers — then move the answer into this bible.
