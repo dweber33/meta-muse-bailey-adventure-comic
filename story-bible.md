@@ -93,7 +93,7 @@ These are real-life facts. Leave them out of strips, or keep them vague, until D
 ## Bailey
 - **Look:** small black-and-tan scruffy female dog. Short scruffy fur (not long or shaggy). Big pointy ears that always stand tall and upright — awake, asleep, wet, or curled up.
 - **Pronouns:** natural feminine pronouns only (she, her, hers) — never print the literal text "she/her" anywhere in a strip.
-- **Home base:** Daniel and Karen's bed — a real human bed with a headboard, a mattress, green checkered bedding and a white pillow, by the bedroom window. Bailey sleeps in it with them. It is NEVER a dog bed, pet bed, basket, or cushion on the floor.
+- **Home base:** Daniel and Karen's bed — a real human bed with a headboard, a mattress, green checkered bedding and a white pillow, by the bedroom window. Bailey sleeps in it with them, always between the two of them. Sometimes she tucks herself in under the covers; sometimes she sprawls out on top of the blanket, making sure she's touching both of them — one of them with her front paws, the other on her back paws. Sometimes she's on their pillows. If she gets to bed first, Daniel sleeps on the edge and never wakes her — he just takes whatever spot she leaves him. It is NEVER a dog bed, pet bed, basket, or cushion on the floor.
 - **Backstory:** adopted from Daniel's grandparents on his dad's side. When they passed away, it was their wish she stay in the family. It's tender: don't build a strip around it unless Daniel asks.
 - **Loves:** naps, treats, chasing butterflies, the park pond, playing on the golf course.
 - **Personality** (drawn from the strips so far; Daniel can add the real Bailey's quirks):
