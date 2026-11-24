@@ -93,7 +93,7 @@ These are real-life facts. Leave them out of strips, or keep them vague, until D
 ## Bailey
 - **Look:** small black-and-tan scruffy female dog. Short scruffy fur (not long or shaggy). Big pointy ears that always stand tall and upright — awake, asleep, wet, or curled up.
 - **Pronouns:** natural feminine pronouns only (she, her, hers) — never print the literal text "she/her" anywhere in a strip.
-- **Home base:** the green checkered bed with a white pillow.
+- **Home base:** Daniel and Karen's bed — a real human bed with a headboard, a mattress, green checkered bedding and a white pillow, by the bedroom window. Bailey sleeps in it with them. It is NEVER a dog bed, pet bed, basket, or cushion on the floor.
 - **Backstory:** adopted from Daniel's grandparents on his dad's side. When they passed away, it was their wish she stay in the family. It's tender: don't build a strip around it unless Daniel asks.
 - **Loves:** naps, treats, chasing butterflies, the park pond, playing on the golf course.
 - **Personality** (drawn from the strips so far; Daniel can add the real Bailey's quirks):
@@ -138,7 +138,7 @@ Real family. They appear only when the story calls for them — Bailey is always
 - **The Irish Bone ("KISS ME" bone)** — black bone-shaped toy covered in green and yellow shamrocks, with "KISS ME" stitched across it. Same reference photo. Bailey's favorite chew toy — she carries it around and guards it proudly. Draw it as the bone itself only — a bone shape lying down or being carried, never a character with a face, arms, or a body. (Daniel corrected this Nov 14: the first drawing turned it into a little bear character.) **Never yet the center of a story.**
 
 ## Places
-- **The green checkered bed** (home), by the bedroom window.
+- **The green checkered bed** — Daniel and Karen's real human bed (home), by the bedroom window. Never a dog bed.
 - **The front yard and the big oak** — Ruby's nest, the Squirrel's home, where Mittens was rescued; the Night Patrol route.
 - **The yard and its puddles** — out the back door; Finn's home; the Swamp Patrol route.
 - **The garden** — Holly's flowers.
@@ -295,6 +295,7 @@ The same errors kept coming back Nov 14–20 (details in `production-log.md`). H
 11. **Background stays behind.** Pond water, lily pads, branches, and furniture stay behind the characters — never overlapping a body or showing through a leg. (Nov 22 midday: a lily pad drawn transparent over Daniel's leg.)
 12. **Four legs, standing preferred.** Bailey has exactly four legs in every panel. Prefer standing poses with all four paws planted; mid-air jumps keep sprouting an extra leg — if a jump is used, count the legs in the prompt ("two front paws raised, two hind legs, four total"). (Nov 22 midday: six legs, then five, in panel 5.)
 13. **Species features.** Each friend keeps their own features — Daisy is a duck: orange beak, small feather tuft, webbed feet, NO ears. (Nov 22 midday: Daisy drawn with pointy dog ears in panel 3.)
+14. **The bed is a real human bed.** Bailey sleeps in Daniel and Karen's bed — a proper human bed with a headboard, mattress, green checkered bedding and a white pillow, by the bedroom window. Never a dog bed, pet bed, basket, or cushion on the floor. (Nov 23: the bed kept flipping between a real bed and a dog bed across strips.)
 
 ### Pre-posting check — run before any strip is sent or posted
 Every run reads the finished strip image and checks it before sending it to Karen or posting it to Instagram. **Check at full size, panel by panel: crop all six panels and look at each one zoomed in — the whole-strip view is too small to count legs or see feet at a panel's edge. Every error on Nov 22 midday (six legs, dog ears, missing feet, standing in water, a transparent lily pad) passed the small-view check and was obvious zoomed in.**
