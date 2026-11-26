@@ -11,7 +11,7 @@ Companion files: `arc-log.md` — the full story, day by day (this bible keeps o
    **Noon and 6pm runs:** follow Today's plan. Change it only for the weather or Daniel's picks, and note why.
 4. Write the six panels and the image prompt, using **Prevent the known problems**.
 5. Generate the strip and run the **Pre-posting check**. Keep fixing until it passes.
-6. Send it to Karen. At 6pm, post the day to Instagram as a single-panel carousel: a cover image first (the day's title), then all 18 panels one per swipe — see **Instagram — single-panel carousel** under Production.
+6. Send it to Karen. The Instagram post goes out at 6:20pm, after Karen's 20-minute review window — if she sends "baf" in Messenger, the post is held; if nothing arrives, it posts automatically. See **Instagram — single-panel carousel** under Production.
 7. Update the files (**After each strip**).
 
 ## Today's plan
@@ -340,6 +340,7 @@ The evening Instagram post is a single-panel carousel, not the old 3-strip carou
 - **Splitting:** run `split_panels.py` (in this folder) — it reads the day's manifest, detects each strip's OWN panel grid from its light-band gutters, crops all 18 panels, pads each to 1080×1080 square, and builds a contact sheet. **Never reuse one strip's grid on another — the panels are not perfectly uniform.** Nov 25's midday strip had wider margins and a different grid; the first cut (from the wrong boxes) came out off-center on slides 8, 9, and 11. Dark-line detection is noisy — interior art throws false positives; the light-band gutters are the reliable signal.
 - **Verify the panels before posting:** read the contact sheet and check every panel — each one complete and centered, no cut-off edge, no sliver of a neighboring panel, no footer text, every scene title legible. The big panels make bubble-tail errors easy to spot — check every tail here too, not just in the strip: Nov 25 evening panel 6's tail pointed at the Vacuum instead of Bailey, and it was only caught at panel size. If a panel is mis-cropped, fix the crop; if a tail is wrong, fix that panel — never post a panel you know is wrong.
 - **Caption:** the same fresh story caption rule — 2–4 sentences from the day's arc, warm and playful, never a template, end with a short follow line.
+- **Karen's review window (Daniel's call, Nov 26, 2026):** the post does NOT go out at 6pm — it waits until 6:20pm. Karen gets the evening strip at 6pm and has 20 minutes to flag anything wrong by sending a message containing "baf" in Messenger (for example, "baf — Bailey has five legs in panel 3"). At 6:20pm the run checks the thread: if a baf arrived, the post is held and Daniel is told Karen's exact words — nothing is posted until he says so. If nothing arrived, it posts automatically. Silence means go. A baf sent after 6:20pm is too late for that day's post — the fix is a delete-and-repost like the Nov 26 test.
 
 ## After each strip
 1. **arc-log.md** — add the strip under today's date: its title and one or two lines on what happened. After the 6pm strip, add the day's tag line (shape · settings · cast · ending).
